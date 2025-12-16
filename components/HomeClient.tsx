@@ -47,14 +47,16 @@ export function HomeClient() {
   };
 
   return (
-    <main className="max-w-6xl mx-auto px-4 py-8">
+    <main className="max-w-6xl mx-auto px-4 py-8 space-y-6">
       <Hero />
-      <QuickPicks onPick={applyQuick} />
       <Questionnaire
         answers={answers}
         onChange={(key, value) => setAnswers((a) => ({ ...a, [key]: value }))}
       />
-      <ResultGrid items={results} onReroll={reroll} />
+      <div className="space-y-4">
+        <QuickPicks onPick={applyQuick} />
+        <ResultGrid items={results} onReroll={reroll} />
+      </div>
     </main>
   );
 }

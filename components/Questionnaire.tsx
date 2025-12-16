@@ -15,7 +15,7 @@ export function Questionnaire({
     <section className="mb-8">
       <div className="mb-4">
         <h2 className="text-2xl font-bold">상황을 알려주면 바로 추천해줄게요</h2>
-        <p className="text-gray-500">필요한 것만 고르고, 나머지는 비워둬도 돼요.</p>
+        <p className="text-gray-500 text-sm">필요한 것만 골라도 됩니다.</p>
       </div>
 
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
@@ -101,8 +101,8 @@ export function Questionnaire({
 
 function Card({ children, title }: { children: React.ReactNode; title: string }) {
   return (
-    <div className="rounded-xl border p-3 bg-white">
-      <p className="text-sm text-gray-700 mb-2 font-medium">{title}</p>
+    <div className="rounded-xl border border-slate-200 bg-white/90 p-4 shadow-sm backdrop-blur">
+      <p className="text-sm text-gray-800 mb-3 font-semibold">{title}</p>
       <div className="flex gap-2 flex-wrap">{children}</div>
     </div>
   );
@@ -120,8 +120,10 @@ function Button({
   return (
     <button
       onClick={onClick}
-      className={`px-3 py-1 rounded-full text-sm border ${
-        active ? "bg-black text-white border-black" : "hover:bg-gray-100"
+      className={`px-3 py-1 rounded-full text-sm border transition ${
+        active
+          ? "bg-slate-900 text-white border-slate-900 shadow-sm"
+          : "bg-white border-gray-200 hover:bg-gray-100"
       }`}
     >
       {children}

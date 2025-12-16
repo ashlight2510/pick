@@ -20,6 +20,11 @@ type DataPayload = {
   items: TitleItem[];
 };
 
+function normalizeOtt(ott: string[]) {
+  const mapped = ott.map((o) => (o === "Netflix Standard with Ads" ? "Netflix" : o));
+  return Array.from(new Set(mapped));
+}
+
 let cache: DataPayload | null = null;
 
 export async function loadTitles(): Promise<TitleItem[]> {
@@ -29,8 +34,13 @@ export async function loadTitles(): Promise<TitleItem[]> {
     const res = await fetch("/data/titles.json", { cache: "no-cache" });
     if (!res.ok) throw new Error("데이터를 불러오지 못했습니다.");
     const data: DataPayload = await res.json();
-    cache = data;
-    return data.items;
+    const items =
+      data.items?.map((i) => ({
+        ...i,
+        ott: normalizeOtt(i.ott ?? []),
+      })) ?? [];
+    cache = { ...data, items };
+    return items;
   } catch (err) {
     console.error(err);
     return [];

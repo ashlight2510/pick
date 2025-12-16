@@ -29,7 +29,12 @@ const PROVIDER_URL: Record<string, string> = {
   Crunchyroll: "https://www.crunchyroll.com",
 };
 
-async function loadTitle(id: number): Promise<TitleItem | null> {
+function normalizeOtt(ott: string[]) {
+  const mapped = ott.map((o) => (o === "Netflix Standard with Ads" ? "Netflix" : o));
+  return Array.from(new Set(mapped));
+}
+
+async function loadAllTitles(): Promise<TitleItem[]> {
   const dataPath = path.join(process.cwd(), "data", "titles.json");
   const fallbackPath = path.join(process.cwd(), "public", "data", "titles.json");
   const candidates = [dataPath, fallbackPath];
@@ -38,19 +43,41 @@ async function loadTitle(id: number): Promise<TitleItem | null> {
     try {
       const raw = await fs.readFile(p, "utf8");
       const parsed = JSON.parse(raw);
-      const found = (parsed.items as TitleItem[]).find((i) => i.id === id);
-      if (found) return found;
+      const items = (parsed.items as TitleItem[]).map((i) => ({
+        ...i,
+        ott: normalizeOtt(i.ott ?? []),
+      }));
+      return items;
     } catch {
       // keep trying next path
     }
   }
-  return null;
+  return [];
+}
+
+function pickSimilar(all: TitleItem[], current: TitleItem, limit = 6) {
+  const scores = all
+    .filter((t) => t.id !== current.id && t.type === current.type)
+    .map((t) => {
+      const ottOverlap = t.ott.filter((o) => current.ott.includes(o)).length;
+      const scoreGap = Math.abs((t.score ?? 0) - (current.score ?? 0));
+      const sim =
+        ottOverlap * 3 +
+        (scoreGap <= 5 ? 3 : scoreGap <= 10 ? 2 : 0) +
+        (t.year === current.year ? 1 : 0);
+      return { item: t, sim };
+    })
+    .sort((a, b) => b.sim - a.sim || b.item.score - a.item.score);
+
+  return scores.slice(0, limit).map((s) => s.item);
 }
 
 export default async function TitlePage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
   const idNum = Number(id);
-  const item = await loadTitle(idNum);
+  const allTitles = await loadAllTitles();
+  const item = allTitles.find((i) => i.id === idNum) ?? null;
+  const similar = item ? pickSimilar(allTitles, item, 6) : [];
 
   if (!item) {
     return (
@@ -65,6 +92,14 @@ export default async function TitlePage({ params }: { params: Promise<{ id: stri
 
   return (
     <main className="max-w-4xl mx-auto px-4 py-10">
+      <div className="mb-4">
+        <Link
+          href="/"
+          className="inline-flex items-center gap-2 rounded-full border border-slate-200 bg-white px-3 py-1 text-sm text-slate-800 shadow-sm transition hover:-translate-y-0.5 hover:shadow"
+        >
+          ← 메인으로 돌아가기
+        </Link>
+      </div>
       <section className="flex gap-6 mb-8">
         <div className="w-40 aspect-[2/3] bg-gray-200 rounded overflow-hidden">
           {item.poster && (
@@ -114,7 +149,40 @@ export default async function TitlePage({ params }: { params: Promise<{ id: stri
 
       <section>
         <h2 className="font-semibold mb-3">비슷한 추천</h2>
-        <p className="text-sm text-gray-500">곧 업데이트 예정</p>
+        {similar.length === 0 ? (
+          <p className="text-sm text-gray-500">준비된 추천이 없습니다.</p>
+        ) : (
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+            {similar.map((s) => (
+              <Link
+                key={`${s.type}-${s.id}`}
+                href={`/title/${s.id}`}
+                className="rounded-lg border overflow-hidden hover:shadow bg-white"
+              >
+                <div className="aspect-[2/3] bg-gray-100 overflow-hidden">
+                  {s.poster && (
+                    <img
+                      src={`https://image.tmdb.org/t/p/w500${s.poster}`}
+                      alt={s.title}
+                      className="w-full h-full object-cover"
+                    />
+                  )}
+                </div>
+                <div className="p-2">
+                  <div className="text-sm font-medium truncate">{s.title}</div>
+                  <div className="text-xs text-gray-500">
+                    {s.score}점 · {s.ott?.[0] ?? "OTT"}
+                  </div>
+                  {(s.reason || s.tags?.length) && (
+                    <div className="text-xs text-gray-400 overflow-hidden text-ellipsis">
+                      {s.reason ?? s.tags?.[0]}
+                    </div>
+                  )}
+                </div>
+              </Link>
+            ))}
+          </div>
+        )}
       </section>
     </main>
   );

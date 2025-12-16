@@ -45,17 +45,32 @@ const PICK_MAP: Record<string, PickConfig> = {
   },
 };
 
+function normalizeOtt(ott: string[]) {
+  const mapped = ott.map((o) => (o === "Netflix Standard with Ads" ? "Netflix" : o));
+  return Array.from(new Set(mapped));
+}
+
 async function loadTitles(): Promise<TitleItem[]> {
   const dataPath = path.join(process.cwd(), "data", "titles.json");
   const fallbackPath = path.join(process.cwd(), "public", "data", "titles.json");
   try {
     const raw = await fs.readFile(dataPath, "utf8");
     const parsed = JSON.parse(raw);
-    return parsed.items ?? [];
+    return (
+      parsed.items?.map((i: TitleItem) => ({
+        ...i,
+        ott: normalizeOtt(i.ott ?? []),
+      })) ?? []
+    );
   } catch {
     const raw = await fs.readFile(fallbackPath, "utf8");
     const parsed = JSON.parse(raw);
-    return parsed.items ?? [];
+    return (
+      parsed.items?.map((i: TitleItem) => ({
+        ...i,
+        ott: normalizeOtt(i.ott ?? []),
+      })) ?? []
+    );
   }
 }
 

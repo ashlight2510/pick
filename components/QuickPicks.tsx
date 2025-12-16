@@ -9,12 +9,12 @@ const QUICK_PRESETS: { label: string; preset: Partial<QuestionAnswers>; slug: st
 
 export function QuickPicks({ onPick }: { onPick: (preset: Partial<QuestionAnswers>) => void }) {
   return (
-    <section className="grid grid-cols-2 sm:grid-cols-3 gap-3 mb-12">
+    <section className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-12">
       {QUICK_PRESETS.map((pick) => (
         <button
           key={pick.slug}
           onClick={() => onPick(pick.preset)}
-          className="rounded-xl border p-4 text-center hover:bg-gray-50"
+          className="w-full rounded-xl border border-slate-200 bg-gradient-to-br from-slate-50 via-white to-slate-50 p-4 text-center shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
         >
           {pick.label}
         </button>

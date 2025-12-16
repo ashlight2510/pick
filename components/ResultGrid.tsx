@@ -10,11 +10,11 @@ export function ResultGrid({
 }) {
   return (
     <section className="mt-6">
-      <div className="flex items-center gap-3 mb-4">
+      <div className="flex flex-wrap items-center gap-3 mb-4">
         <h2 className="text-xl font-semibold">추천 결과</h2>
         <button
           onClick={onReroll}
-          className="px-3 py-1 rounded-lg border text-sm hover:bg-gray-50"
+          className="px-3 py-1 rounded-lg border text-sm bg-white border-gray-200 shadow-sm hover:-translate-y-0.5 transition hover:shadow"
         >
           다른 추천 돌리기
         </button>
