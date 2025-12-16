@@ -45,6 +45,10 @@ const PICK_MAP: Record<string, PickConfig> = {
   },
 };
 
+export function generateStaticParams() {
+  return Object.keys(PICK_MAP).map((slug) => ({ slug }));
+}
+
 function normalizeOtt(ott: string[]) {
   const mapped = ott.map((o) => (o === "Netflix Standard with Ads" ? "Netflix" : o));
   return Array.from(new Set(mapped));
