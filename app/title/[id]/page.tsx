@@ -19,6 +19,25 @@ type TitleItem = {
   reason?: string;
 };
 
+export async function generateStaticParams() {
+  const dataPath = path.join(process.cwd(), "data", "titles.json");
+  const fallbackPath = path.join(process.cwd(), "public", "data", "titles.json");
+  const candidates = [dataPath, fallbackPath];
+  for (const p of candidates) {
+    try {
+      const raw = await fs.readFile(p, "utf8");
+      const parsed = JSON.parse(raw);
+      const items = parsed.items as { id: number }[];
+      if (Array.isArray(items)) {
+        return items.map((i) => ({ id: String(i.id) }));
+      }
+    } catch {
+      // keep trying
+    }
+  }
+  return [];
+}
+
 const PROVIDER_URL: Record<string, string> = {
   Netflix: "https://www.netflix.com",
   wavve: "https://www.wavve.com",
