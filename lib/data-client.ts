@@ -1,4 +1,4 @@
-type TitleItem = {
+export type TitleItem = {
   id: number;
   type: "movie" | "tv";
   title: string;
@@ -44,6 +44,7 @@ export type QuestionAnswers = {
   duration?: "1h" | "2h" | "binge" | "any";
   ott?: string;
   type?: "movie" | "tv";
+  extra?: "must" | "hidden";
 };
 
 export function filterTitles(titles: TitleItem[], answers: QuestionAnswers) {
@@ -89,6 +90,10 @@ export function filterTitles(titles: TitleItem[], answers: QuestionAnswers) {
 
     // OTT availability
     if (answers.ott && !t.ott.includes(answers.ott)) return false;
+
+    // extra presets (퀵 버튼용)
+    if (answers.extra === "must" && t.score < 85) return false;
+    if (answers.extra === "hidden" && !(t.score >= 75 && t.votes < 5000)) return false;
 
     return true;
   });
