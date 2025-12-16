@@ -9,6 +9,16 @@ export const metadata: Metadata = {
     shortcut: "/icon.svg",
     apple: "/icon.svg",
   },
+  openGraph: {
+    images: [
+      {
+        url: "https://dummyimage.com/1200x630/1f2937/f9fafb&text=OTT PICK",
+        width: 1200,
+        height: 630,
+        alt: "OTT PICK",
+      },
+    ],
+  },
 };
 
 export default function RootLayout({

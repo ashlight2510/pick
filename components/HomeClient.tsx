@@ -57,6 +57,16 @@ export function HomeClient() {
         <QuickPicks onPick={applyQuick} />
         <ResultGrid items={results} onReroll={reroll} />
       </div>
+      <div className="flex justify-center pt-8 mt-12 border-t border-gray-200">
+        <a
+          href="https://funnyfunny.cloud/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="px-6 py-3 bg-gray-900 hover:bg-gray-800 text-white rounded-lg font-medium transition-colors duration-200"
+        >
+          다른 서비스 보기
+        </a>
+      </div>
     </main>
   );
 }
