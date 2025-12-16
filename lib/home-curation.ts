@@ -13,8 +13,8 @@ export async function getMustWatch() {
     region: "KR",
     with_watch_providers: PROVIDERS,
     watch_region: "KR",
-    vote_average.gte: 7,
-    vote_count.gte: 500,
+    vote_average: { gte: 7 },
+    vote_count: { gte: 500 },
     sort_by: "popularity.desc",
     page: 1,
   });
