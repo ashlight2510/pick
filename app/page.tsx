@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getMustWatch } from "@/lib/home-curation";
+import { Questionnaire } from "@/components/Questionnaire";
 
 export default async function HomePage() {
   const mustWatch = await getMustWatch();
@@ -63,6 +64,9 @@ export default async function HomePage() {
           ))}
         </div>
       </section>
+
+      {/* Questionnaire */}
+      <Questionnaire />
     </main>
   );
 }

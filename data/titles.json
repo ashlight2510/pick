@@ -1,0 +1,1956 @@
+{
+  "generated_at": "2025-12-16T14:49:44.076Z",
+  "items": [
+    {
+      "id": 1396,
+      "type": "tv",
+      "title": "브레이킹 배드",
+      "title_original": "Breaking Bad",
+      "poster": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "backdrop": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "year": "2008",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 91,
+      "votes": 16686,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 238,
+      "type": "movie",
+      "title": "대부",
+      "title_original": "The Godfather",
+      "poster": "/1yvBkSv4ZLS1GohlmMDmdpSgfYo.jpg",
+      "backdrop": "/39rtAdg3yx6IDxRg0ZLXefv0aPY.jpg",
+      "year": "1972",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 89,
+      "votes": 22154,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 278,
+      "type": "movie",
+      "title": "쇼생크 탈출",
+      "title_original": "The Shawshank Redemption",
+      "poster": "/qV9BQZdiM8foEzDz0Ag5hGWE5qM.jpg",
+      "backdrop": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+      "year": "1995",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 88,
+      "votes": 29361,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 66732,
+      "type": "tv",
+      "title": "기묘한 이야기",
+      "title_original": "Stranger Things",
+      "poster": "/mpOQpOKdo2XJnTqRzo1lTmDNsc1.jpg",
+      "backdrop": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+      "year": "2016",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 88,
+      "votes": 19541,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 27205,
+      "type": "movie",
+      "title": "인셉션",
+      "title_original": "Inception",
+      "poster": "/zTgjeblxSLSvomt6F6UYtpiD4n7.jpg",
+      "backdrop": "/ii8QGacT3MXESqBckQlyrATY0lT.jpg",
+      "year": "2010",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 87,
+      "votes": 38350,
+      "ott": [
+        "wavve",
+        "Watcha"
+      ],
+      "tags": []
+    },
+    {
+      "id": 550,
+      "type": "movie",
+      "title": "파이트 클럽",
+      "title_original": "Fight Club",
+      "poster": "/eKZ07Ted7VHxQjbuZrRBFOamcKJ.jpg",
+      "backdrop": "/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+      "year": "1999",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 87,
+      "votes": 31094,
+      "ott": [
+        "Disney Plus",
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 120,
+      "type": "movie",
+      "title": "반지의 제왕: 반지 원정대",
+      "title_original": "The Lord of the Rings: The Fellowship of the Ring",
+      "poster": "/r18JdjImbWDRwkbVDIzWoLQqkCo.jpg",
+      "backdrop": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+      "year": "2001",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 87,
+      "votes": 26688,
+      "ott": [
+        "Amazon Prime Video",
+        "wavve",
+        "Watcha"
+      ],
+      "tags": []
+    },
+    {
+      "id": 129,
+      "type": "movie",
+      "title": "센과 치히로의 행방불명",
+      "title_original": "千と千尋の神隠し",
+      "poster": "/aZuBfbR0PnCb2up7lqHDsgJlLjs.jpg",
+      "backdrop": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+      "year": "2002",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 87,
+      "votes": 17710,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 13,
+      "type": "movie",
+      "title": "포레스트 검프",
+      "title_original": "Forrest Gump",
+      "poster": "/xdJxoq0dtkchOkUz5UVKuxn7a2V.jpg",
+      "backdrop": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+      "year": "1994",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 87,
+      "votes": 28948,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 496243,
+      "type": "movie",
+      "title": "기생충",
+      "title_original": "기생충",
+      "poster": "/mSi0gskYpmf1FbXngM37s2HppXh.jpg",
+      "backdrop": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+      "year": "2019",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 87,
+      "votes": 19800,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "TVING"
+      ],
+      "tags": []
+    },
+    {
+      "id": 60625,
+      "type": "tv",
+      "title": "릭 앤 모티",
+      "title_original": "Rick and Morty",
+      "poster": "/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+      "backdrop": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+      "year": "2013",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 87,
+      "votes": 10546,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 157336,
+      "type": "movie",
+      "title": "인터스텔라",
+      "title_original": "Interstellar",
+      "poster": "/evoEi8SBSvIIEveM3V6nCJ6vKj8.jpg",
+      "backdrop": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+      "year": "2014",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 86,
+      "votes": 38398,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 121,
+      "type": "movie",
+      "title": "반지의 제왕: 두 개의 탑",
+      "title_original": "The Lord of the Rings: The Two Towers",
+      "poster": "/zxZdTi3fA7aDxEOivmzZAY2bmTu.jpg",
+      "backdrop": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+      "year": "2002",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 86,
+      "votes": 23167,
+      "ott": [
+        "Amazon Prime Video",
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 155,
+      "type": "movie",
+      "title": "다크 나이트",
+      "title_original": "The Dark Knight",
+      "poster": "/f6dNinWX8rBM79JXKcShkfSh2oA.jpg",
+      "backdrop": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+      "year": "2008",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 86,
+      "votes": 34825,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 372058,
+      "type": "movie",
+      "title": "너의 이름은",
+      "title_original": "君の名は。",
+      "poster": "/2DJCufz3Oa703PbLjNX1pM6MCG2.jpg",
+      "backdrop": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+      "year": "2017",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 85,
+      "votes": 12153,
+      "ott": [
+        "wavve",
+        "Watcha"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1408,
+      "type": "tv",
+      "title": "하우스",
+      "title_original": "House",
+      "poster": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+      "backdrop": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+      "year": "2004",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 85,
+      "votes": 7212,
+      "ott": [
+        "Netflix",
+        "Amazon Prime Video",
+        "Watcha",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 71712,
+      "type": "tv",
+      "title": "굿 닥터",
+      "title_original": "The Good Doctor",
+      "poster": "/luhKkdD80qe62fwop6sdrXK9jUT.jpg",
+      "backdrop": "/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+      "year": "2017",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 85,
+      "votes": 12674,
+      "ott": [
+        "Netflix",
+        "wavve",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 63174,
+      "type": "tv",
+      "title": "루시퍼",
+      "title_original": "Lucifer",
+      "poster": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+      "backdrop": "/ncftkNAjIz2PBbUMY7T0CHVJP8d.jpg",
+      "year": "2016",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 85,
+      "votes": 15213,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 98,
+      "type": "movie",
+      "title": "글래디에이터",
+      "title_original": "Gladiator",
+      "poster": "/yemF0xxGU56Pf3JXxVr4C6kuKng.jpg",
+      "backdrop": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+      "year": "2000",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 84,
+      "votes": 20292,
+      "ott": [
+        "Netflix",
+        "wavve",
+        "Watcha",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 119051,
+      "type": "tv",
+      "title": "웬즈데이",
+      "title_original": "Wednesday",
+      "poster": "/oCpvKD0yuRV9OAZ8xklRy9HWc6l.jpg",
+      "backdrop": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+      "year": "2022",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 84,
+      "votes": 10116,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 2316,
+      "type": "tv",
+      "title": "오피스",
+      "title_original": "The Office",
+      "poster": "/dg9e5fPRRId8PoBE0F6jl5y85Eu.jpg",
+      "backdrop": "/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+      "year": "2005",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 84,
+      "votes": 4830,
+      "ott": [
+        "Amazon Prime Video",
+        "Watcha"
+      ],
+      "tags": []
+    },
+    {
+      "id": 95479,
+      "type": "tv",
+      "title": "주술회전",
+      "title_original": "呪術廻戦",
+      "poster": "/pnn223i9v5kfYku6TbqdSbPePJp.jpg",
+      "backdrop": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+      "year": "2020",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 84,
+      "votes": 4047,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": []
+    },
+    {
+      "id": 60574,
+      "type": "tv",
+      "title": "피키 블라인더스",
+      "title_original": "Peaky Blinders",
+      "poster": "/tNywkichh1mbS8BZA6CUPB8Zqgd.jpg",
+      "backdrop": "/l8v3gJDlASN0lNn51gR8zQJsu5O.jpg",
+      "year": "2013",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 84,
+      "votes": 10663,
+      "ott": [
+        "Netflix"
+      ],
+      "tags": []
+    },
+    {
+      "id": 603,
+      "type": "movie",
+      "title": "매트릭스",
+      "title_original": "The Matrix",
+      "poster": "/fxBxoXFAYKWde6lKzXxSusn18Av.jpg",
+      "backdrop": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+      "year": "1999",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 83,
+      "votes": 27090,
+      "ott": [
+        "Watcha"
+      ],
+      "tags": []
+    },
+    {
+      "id": 299536,
+      "type": "movie",
+      "title": "어벤져스: 인피니티 워",
+      "title_original": "Avengers: Infinity War",
+      "poster": "/kmP6viwzcEkZeoi1LaVcQemcvZh.jpg",
+      "backdrop": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "year": "2018",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 83,
+      "votes": 31213,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 18165,
+      "type": "tv",
+      "title": "뱀파이어 다이어리",
+      "title_original": "The Vampire Diaries",
+      "poster": "/b3vl6wV1W8PBezFfntKTrhrehCY.jpg",
+      "backdrop": "/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+      "year": "2009",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 83,
+      "votes": 9391,
+      "ott": [
+        "Netflix",
+        "Amazon Prime Video",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 79744,
+      "type": "tv",
+      "title": "더 루키",
+      "title_original": "The Rookie",
+      "poster": "/uyuCMmAxNL3z3fyW4xzefT886Yu.jpg",
+      "backdrop": "/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+      "year": "2018",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 82,
+      "votes": 2795,
+      "ott": [
+        "Netflix",
+        "wavve",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "TVING"
+      ],
+      "tags": []
+    },
+    {
+      "id": 63926,
+      "type": "tv",
+      "title": "원펀맨",
+      "title_original": "ワンパンマン",
+      "poster": "/sV5D7lM4isMmK1gNSv2SglqYnni.jpg",
+      "backdrop": "/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+      "year": "2015",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 82,
+      "votes": 3930,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1402,
+      "type": "tv",
+      "title": "워킹 데드",
+      "title_original": "The Walking Dead",
+      "poster": "/nXzLSn04H4QyapOSwH76R3UE7Iw.jpg",
+      "backdrop": "/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+      "year": "2010",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 82,
+      "votes": 17365,
+      "ott": [
+        "Netflix",
+        "Disney Plus",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 120089,
+      "type": "tv",
+      "title": "스파이 패밀리",
+      "title_original": "SPY×FAMILY",
+      "poster": "/rikBBQHmCTOiZ7YoJVkYcKdXgNx.jpg",
+      "backdrop": "/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
+      "year": "2022",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 82,
+      "votes": 2132,
+      "ott": [
+        "Netflix",
+        "Disney Plus",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": []
+    },
+    {
+      "id": 46260,
+      "type": "tv",
+      "title": "나루토",
+      "title_original": "ナルト",
+      "poster": "/5llYnYzA2oiTxxSi9d7RSanrwR8.jpg",
+      "backdrop": "/xuJ0F9RfKvVSJNDg2usurQ9WvY5.jpg",
+      "year": "2002",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 82,
+      "votes": 5829,
+      "ott": [
+        "Watcha",
+        "Crunchyroll"
+      ],
+      "tags": []
+    },
+    {
+      "id": 12971,
+      "type": "tv",
+      "title": "드래곤볼 Z",
+      "title_original": "ドラゴンボールゼット",
+      "poster": "/70gAmYUfEVOFMuC3gJBIo0MSfbh.jpg",
+      "backdrop": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+      "year": "1989",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 82,
+      "votes": 4704,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads",
+        "Crunchyroll"
+      ],
+      "tags": []
+    },
+    {
+      "id": 10681,
+      "type": "movie",
+      "title": "월•E",
+      "title_original": "WALL·E",
+      "poster": "/skTzymk67FfQSfGvwp4JSAqje4Z.jpg",
+      "backdrop": "/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
+      "year": "2008",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 81,
+      "votes": 19709,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 12445,
+      "type": "movie",
+      "title": "해리 포터와 죽음의 성물 2",
+      "title_original": "Harry Potter and the Deathly Hallows: Part 2",
+      "poster": "/ehUeFvQeo8Vr2aDIKLsLbC8okcw.jpg",
+      "backdrop": "/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg",
+      "year": "2011",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 81,
+      "votes": 21486,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1405,
+      "type": "tv",
+      "title": "덱스터",
+      "title_original": "Dexter",
+      "poster": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+      "backdrop": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+      "year": "2006",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 81,
+      "votes": 5109,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 37680,
+      "type": "tv",
+      "title": "슈츠",
+      "title_original": "Suits",
+      "poster": "/lvYWwQj89ioSk9WzhC1KEujmpWa.jpg",
+      "backdrop": "/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
+      "year": "2011",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 81,
+      "votes": 5461,
+      "ott": [
+        "Netflix",
+        "Amazon Prime Video",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 24428,
+      "type": "movie",
+      "title": "어벤져스",
+      "title_original": "The Avengers",
+      "poster": "/krgjV3rJtBcEpQehODKXNCt6uFL.jpg",
+      "backdrop": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "year": "2012",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 80,
+      "votes": 34443,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 673,
+      "type": "movie",
+      "title": "해리 포터와 아즈카반의 죄수",
+      "title_original": "Harry Potter and the Prisoner of Azkaban",
+      "poster": "/anwNl1xbzXoj5Ax1nVw3WoDzHlw.jpg",
+      "backdrop": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+      "year": "2004",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 80,
+      "votes": 22617,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1416,
+      "type": "tv",
+      "title": "그레이 아나토미",
+      "title_original": "Grey's Anatomy",
+      "poster": "/lCUvpSvjAPU82HvJ8XfR74Chv5r.jpg",
+      "backdrop": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+      "year": "2005",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 80,
+      "votes": 10710,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 114868,
+      "type": "tv",
+      "title": "종말의 발키리",
+      "title_original": "終末のワルキューレ",
+      "poster": "/wEcfIOZhOlYRJKlVL4s2WM8oulG.jpg",
+      "backdrop": "/6pSkqecoNsxSA467Z28uhVDrjXo.jpg",
+      "year": "2021",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 80,
+      "votes": 1778,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 93405,
+      "type": "tv",
+      "title": "오징어 게임",
+      "title_original": "오징어 게임",
+      "poster": "/yACIAqAkSLkX4coHafpyLWAtQjw.jpg",
+      "backdrop": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+      "year": "2021",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 80,
+      "votes": 16960,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1409,
+      "type": "tv",
+      "title": "썬즈 오브 아나키",
+      "title_original": "Sons of Anarchy",
+      "poster": "/jzsCDbn0UCod1SjtUaPNeBblved.jpg",
+      "backdrop": "/dk2AwvW3VyKHCWAdED0sJzD0NYQ.jpg",
+      "year": "2008",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 80,
+      "votes": 3121,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 30984,
+      "type": "tv",
+      "title": "블리치",
+      "title_original": "BLEACH",
+      "poster": "/2cT8jkEVsAL86CVKALR4pnaVLDb.jpg",
+      "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "year": "2004",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 80,
+      "votes": 2024,
+      "ott": [
+        "Netflix",
+        "Disney Plus",
+        "Netflix Standard with Ads",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": []
+    },
+    {
+      "id": 546554,
+      "type": "movie",
+      "title": "나이브스 아웃",
+      "title_original": "Knives Out",
+      "poster": "/7brBiaaH1sToGV1YBi5EIUnyjo0.jpg",
+      "backdrop": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+      "year": "2019",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 13328,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "FilmBox+",
+        "Netflix Standard with Ads",
+        "TVING"
+      ],
+      "tags": []
+    },
+    {
+      "id": 671,
+      "type": "movie",
+      "title": "해리 포터와 마법사의 돌",
+      "title_original": "Harry Potter and the Philosopher's Stone",
+      "poster": "/8YaP48tVfngbURGldWk1I5odsBK.jpg",
+      "backdrop": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+      "year": "2001",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 28893,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 597,
+      "type": "movie",
+      "title": "타이타닉",
+      "title_original": "Titanic",
+      "poster": "/132KjhVrWUqKFVfMAKKNkherytA.jpg",
+      "backdrop": "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+      "year": "1999",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 26535,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 272,
+      "type": "movie",
+      "title": "배트맨 비긴즈",
+      "title_original": "Batman Begins",
+      "poster": "/sb3V2fPhNDRRUvHJW4pQaeHbDxm.jpg",
+      "backdrop": "/y9AuabF1SXnn3xZ0tAJLLhv33Uj.jpg",
+      "year": "2005",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 22026,
+      "ott": [
+        "wavve",
+        "Watcha"
+      ],
+      "tags": []
+    },
+    {
+      "id": 34307,
+      "type": "tv",
+      "title": "쉐임리스",
+      "title_original": "Shameless",
+      "poster": "/9ZTivNsXHQWVq578CIsvsM5zd08.jpg",
+      "backdrop": "/5s9XHTB9SLPdg3mNU6BlSLnZ9Qq.jpg",
+      "year": "2011",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 3128,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 4057,
+      "type": "tv",
+      "title": "크리미널 마인드",
+      "title_original": "Criminal Minds",
+      "poster": "/A5hvLZpYcpT2GFA3j8LtI6eINFr.jpg",
+      "backdrop": "/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
+      "year": "2005",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 3962,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 71912,
+      "type": "tv",
+      "title": "위쳐",
+      "title_original": "The Witcher",
+      "poster": "/5rPQiz9ql0KdlTr21WDcL85va3H.jpg",
+      "backdrop": "/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+      "year": "2019",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 6424,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 4087,
+      "type": "tv",
+      "title": "엑스 파일",
+      "title_original": "The X-Files",
+      "poster": "/6BVL2a1fuRAj7rEflQ5HcrM2dRS.jpg",
+      "backdrop": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
+      "year": "1993",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 3379,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1400,
+      "type": "tv",
+      "title": "사인필드",
+      "title_original": "Seinfeld",
+      "poster": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+      "backdrop": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+      "year": "1989",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 2222,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 220542,
+      "type": "tv",
+      "title": "약사의 혼잣말",
+      "title_original": "薬屋のひとりごと",
+      "poster": "/vy9rMVergbppBCflHJyT78dz7mz.jpg",
+      "backdrop": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+      "year": "2023",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 478,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads",
+        "Crunchyroll"
+      ],
+      "tags": []
+    },
+    {
+      "id": 803796,
+      "type": "movie",
+      "title": "케이팝 데몬 헌터스",
+      "title_original": "KPop Demon Hunters",
+      "poster": "/91sO99VNo1IxzI1NcOhPRaWBE5N.jpg",
+      "backdrop": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+      "year": "2025",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 2038,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 674,
+      "type": "movie",
+      "title": "해리 포터와 불의 잔",
+      "title_original": "Harry Potter and the Goblet of Fire",
+      "poster": "/uWPnKtu1eutmgBQ2hoWm0Xe8nfN.jpg",
+      "backdrop": "/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg",
+      "year": "2005",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 21654,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 49026,
+      "type": "movie",
+      "title": "다크 나이트 라이즈",
+      "title_original": "The Dark Knight Rises",
+      "poster": "/stbZZs3WMPr9rvAT92Qd8gXCUfx.jpg",
+      "backdrop": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+      "year": "2012",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 23770,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 456,
+      "type": "tv",
+      "title": "심슨 가족",
+      "title_original": "The Simpsons",
+      "poster": "/7HKQieF8YqXgTwBVjWFGWaEKNS7.jpg",
+      "backdrop": "/jvTeRgjFsp66xj8SWxhr7O2J4ud.jpg",
+      "year": "1989",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 10485,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 60735,
+      "type": "tv",
+      "title": "플래시",
+      "title_original": "The Flash",
+      "poster": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+      "backdrop": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+      "year": "2014",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 11442,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 44217,
+      "type": "tv",
+      "title": "바이킹스",
+      "title_original": "Vikings",
+      "poster": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+      "backdrop": "/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
+      "year": "2013",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 7401,
+      "ott": [
+        "Netflix"
+      ],
+      "tags": []
+    },
+    {
+      "id": 46296,
+      "type": "tv",
+      "title": "스파르타쿠스",
+      "title_original": "Spartacus",
+      "poster": "/9aehAV4zGOWad1Gz31gibjfIEnx.jpg",
+      "backdrop": "/1vhKauCQAq32u53X8n9qI896e6.jpg",
+      "year": "2010",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 2768,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1911,
+      "type": "tv",
+      "title": "본즈",
+      "title_original": "Bones",
+      "poster": "/24Mi1oDrdc1zbHju7FVHJA4sgYt.jpg",
+      "backdrop": "/4AXxajuAz9tHAOe6h5zDg8z1X2s.jpg",
+      "year": "2005",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 3359,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 65334,
+      "type": "tv",
+      "title": "미라큘러스 레이디버그",
+      "title_original": "Miraculous, les aventures de Ladybug et Chat Noir",
+      "poster": "/2StXCVS3mm09HwRBWsee3QCz3TM.jpg",
+      "backdrop": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+      "year": "2015",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 4534,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "TVING"
+      ],
+      "tags": []
+    },
+    {
+      "id": 2288,
+      "type": "tv",
+      "title": "프리즌 브레이크",
+      "title_original": "Prison Break",
+      "poster": "/25CanTqZbSxroa2dqcbtRi7jaQ5.jpg",
+      "backdrop": "/n3Brk7roueE9HOwVmYlJx5j462g.jpg",
+      "year": "2005",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 5689,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1100,
+      "type": "tv",
+      "title": "내가 그녀를 만났을 때",
+      "title_original": "How I Met Your Mother",
+      "poster": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+      "backdrop": "/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+      "year": "2005",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 5471,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 78191,
+      "type": "tv",
+      "title": "너의 모든 것",
+      "title_original": "You",
+      "poster": "/5jKHUJATJDwLE7fAgH5NvTRipXS.jpg",
+      "backdrop": "/gzOIymABxmetAECXtazEYCpMmfb.jpg",
+      "year": "2018",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 3739,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1413,
+      "type": "tv",
+      "title": "아메리칸 호러 스토리",
+      "title_original": "American Horror Story",
+      "poster": "/ovgdkSfkIRsYbgS99GmuMsy03fF.jpg",
+      "backdrop": "/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
+      "year": "2011",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 5895,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 269149,
+      "type": "movie",
+      "title": "주토피아",
+      "title_original": "Zootopia",
+      "poster": "/fZcab1yiKXsjx3S8D4KRHZsnMGC.jpg",
+      "backdrop": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+      "year": "2016",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 77,
+      "votes": 17295,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 19995,
+      "type": "movie",
+      "title": "아바타",
+      "title_original": "Avatar",
+      "poster": "/m5lCha2XcbDowDoYHPc0DTNaCPU.jpg",
+      "backdrop": "/7JNzw1tSZZEgsBw6lu0VfO2X2Ef.jpg",
+      "year": "2009",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 77,
+      "votes": 32914,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 767,
+      "type": "movie",
+      "title": "해리 포터와 혼혈왕자",
+      "title_original": "Harry Potter and the Half-Blood Prince",
+      "poster": "/yrGlb3HLtjGp39mv4MJ5UuIHcj4.jpg",
+      "backdrop": "/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg",
+      "year": "2009",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 77,
+      "votes": 20307,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 12444,
+      "type": "movie",
+      "title": "해리 포터와 죽음의 성물 1",
+      "title_original": "Harry Potter and the Deathly Hallows: Part 1",
+      "poster": "/lOXvz8HrgOkp7AXGQp1APKeZqag.jpg",
+      "backdrop": "/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
+      "year": "2010",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 77,
+      "votes": 19915,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 71790,
+      "type": "tv",
+      "title": "스와트",
+      "title_original": "S.W.A.T.",
+      "poster": "/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
+      "backdrop": "/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
+      "year": "2017",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 77,
+      "votes": 1519,
+      "ott": [
+        "wavve",
+        "Watcha"
+      ],
+      "tags": []
+    },
+    {
+      "id": 71728,
+      "type": "tv",
+      "title": "영 셸던",
+      "title_original": "Young Sheldon",
+      "poster": "/c9J6uYthPPYpBHjOVEEWg7MvMtY.jpg",
+      "backdrop": "/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
+      "year": "2017",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 77,
+      "votes": 2845,
+      "ott": [
+        "Netflix",
+        "Amazon Prime Video",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 675,
+      "type": "movie",
+      "title": "해리 포터와 불사조 기사단",
+      "title_original": "Harry Potter and the Order of the Phoenix",
+      "poster": "/1ItejykqHTbFWbZXdzqlvqriv7K.jpg",
+      "backdrop": "/jLbpgkxA5PSgzmcszT8yCOyPkgf.jpg",
+      "year": "2007",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 76,
+      "votes": 20344,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 823219,
+      "type": "movie",
+      "title": "플로우",
+      "title_original": "Straume",
+      "poster": "/8ntMUYy0b0NIGWSWvMr07ui7CCJ.jpg",
+      "backdrop": "/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
+      "year": "2025",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 76,
+      "votes": 2485,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 4607,
+      "type": "tv",
+      "title": "로스트",
+      "title_original": "Lost",
+      "poster": "/dOGGDP9jZUQSuQICi5Vr9fGjsqD.jpg",
+      "backdrop": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+      "year": "2004",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 76,
+      "votes": 4789,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 60572,
+      "type": "tv",
+      "title": "포켓몬스터",
+      "title_original": "ポケットモンスター",
+      "poster": "/vaXQOBNdQVtxUMN96cR4qQRxmoQ.jpg",
+      "backdrop": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+      "year": "1997",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 76,
+      "votes": 2086,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "TVING"
+      ],
+      "tags": []
+    },
+    {
+      "id": 693,
+      "type": "tv",
+      "title": "위기의 주부들",
+      "title_original": "Desperate Housewives",
+      "poster": "/3TMNdFDDo5O61Zh288vie8o1MvW.jpg",
+      "backdrop": "/kub3bZS2sOGviEjo4p1ohREboVb.jpg",
+      "year": "2004",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 76,
+      "votes": 2001,
+      "ott": [
+        "Disney Plus",
+        "TVING"
+      ],
+      "tags": []
+    },
+    {
+      "id": 601,
+      "type": "movie",
+      "title": "이티",
+      "title_original": "E.T. the Extra-Terrestrial",
+      "poster": "/9Kl6z0J1Hu3cFOFXNBrqqVWoNmI.jpg",
+      "backdrop": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+      "year": "1984",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 75,
+      "votes": 11675,
+      "ott": [
+        "Netflix",
+        "Amazon Prime Video",
+        "Watcha",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 76600,
+      "type": "movie",
+      "title": "아바타: 물의 길",
+      "title_original": "Avatar: The Way of Water",
+      "poster": "/u2aVXft5GLBQnjzWVNda7sdDpdu.jpg",
+      "backdrop": "/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
+      "year": "2022",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 75,
+      "votes": 13148,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 315635,
+      "type": "movie",
+      "title": "스파이더맨: 홈커밍",
+      "title_original": "Spider-Man: Homecoming",
+      "poster": "/hjki9weYYVABvkpZbX5jBOmKXXv.jpg",
+      "backdrop": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+      "year": "2017",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 75,
+      "votes": 22661,
+      "ott": [
+        "wavve",
+        "Watcha"
+      ],
+      "tags": []
+    },
+    {
+      "id": 2734,
+      "type": "tv",
+      "title": "로 앤 오더: 성범죄전담반",
+      "title_original": "Law & Order: Special Victims Unit",
+      "poster": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "backdrop": "/2wgk47yrb2WnXAdSBLFX9EiU882.jpg",
+      "year": "1999",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 75,
+      "votes": 4075,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1421,
+      "type": "tv",
+      "title": "모던 패밀리",
+      "title_original": "Modern Family",
+      "poster": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+      "backdrop": "/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+      "year": "2009",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 75,
+      "votes": 3142,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1062722,
+      "type": "movie",
+      "title": "프랑켄슈타인",
+      "title_original": "Frankenstein",
+      "poster": "/vSMWJkBTEfa7kFxHizSz4uJNVlf.jpg",
+      "backdrop": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+      "year": "2025",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 74,
+      "votes": 2229,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 533535,
+      "type": "movie",
+      "title": "데드풀과 울버린",
+      "title_original": "Deadpool & Wolverine",
+      "poster": "/dsfAcQ5J7TPOpJgcX8R1lRBqiMK.jpg",
+      "backdrop": "/ufpeVEM64uZHPpzzeiDNIAdaeOD.jpg",
+      "year": "2024",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 74,
+      "votes": 8011,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 46952,
+      "type": "tv",
+      "title": "블랙리스트",
+      "title_original": "The Blacklist",
+      "poster": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+      "backdrop": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+      "year": "2013",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 74,
+      "votes": 3436,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1419,
+      "type": "tv",
+      "title": "캐슬",
+      "title_original": "Castle",
+      "poster": "/efxOj2gljCGy8AjbzIqk0B73Meu.jpg",
+      "backdrop": "/zOnLMRD3PIhwO5KZmWMVEnLokMo.jpg",
+      "year": "2009",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 74,
+      "votes": 2009,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1022789,
+      "type": "movie",
+      "title": "인사이드 아웃 2",
+      "title_original": "Inside Out 2",
+      "poster": "/x2BHx02jMbvpKjMvbf8XxJkYwHJ.jpg",
+      "backdrop": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+      "year": "2024",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 73,
+      "votes": 6302,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 106,
+      "type": "movie",
+      "title": "프레데터",
+      "title_original": "Predator",
+      "poster": "/AjYcJsuiqW4sHFEmh5SVSy5PswH.jpg",
+      "backdrop": "/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
+      "year": "1987",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 73,
+      "votes": 8693,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 99861,
+      "type": "movie",
+      "title": "어벤져스: 에이지 오브 울트론",
+      "title_original": "Avengers: Age of Ultron",
+      "poster": "/y8pY5MIzpPAnF5vYUNm1tw1AzL3.jpg",
+      "backdrop": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+      "year": "2015",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 73,
+      "votes": 23909,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1407,
+      "type": "tv",
+      "title": "홈랜드",
+      "title_original": "Homeland",
+      "poster": "/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+      "backdrop": "/391ixi0wVbFtFLQnOy8ZncWv2io.jpg",
+      "year": "2011",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 73,
+      "votes": 2425,
+      "ott": [
+        "Netflix",
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 4614,
+      "type": "tv",
+      "title": "NCIS",
+      "title_original": "NCIS",
+      "poster": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+      "backdrop": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+      "year": "2003",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 72,
+      "votes": 2420,
+      "ott": [
+        "Watcha"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1973,
+      "type": "tv",
+      "title": "24",
+      "title_original": "24",
+      "poster": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+      "backdrop": "/be6mDIMv7cg8duWkcYVnTB8rphO.jpg",
+      "year": "2001",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 72,
+      "votes": 1679,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 80748,
+      "type": "tv",
+      "title": "FBI",
+      "title_original": "FBI",
+      "poster": "/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
+      "backdrop": "/5DFvscYGpcFaQMJljCic5gbzVe6.jpg",
+      "year": "2018",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 72,
+      "votes": 871,
+      "ott": [
+        "wavve"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1620,
+      "type": "tv",
+      "title": "CSI: 마이애미",
+      "title_original": "CSI: Miami",
+      "poster": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+      "backdrop": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+      "year": "2002",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 72,
+      "votes": 1659,
+      "ott": [
+        "Watcha"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1877,
+      "type": "tv",
+      "title": "피니와 퍼브",
+      "title_original": "Phineas and Ferb",
+      "poster": "/9zgv7u9L3Mzw2BDyfNaRLVmhHEo.jpg",
+      "backdrop": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+      "year": "2007",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 72,
+      "votes": 962,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 866398,
+      "type": "movie",
+      "title": "비키퍼",
+      "title_original": "The Beekeeper",
+      "poster": "/ekHemOB84SoKi6fqG0ciwvKWM2i.jpg",
+      "backdrop": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+      "year": "2024",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 71,
+      "votes": 3910,
+      "ott": [
+        "wavve",
+        "Watcha"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1434,
+      "type": "tv",
+      "title": "패밀리 가이",
+      "title_original": "Family Guy",
+      "poster": "/1pbtcqNDKeWErfsDQo82pTPXQjT.jpg",
+      "backdrop": "/lgGZ2ysbRyAOi2VgIZpp6k8qILj.jpg",
+      "year": "1999",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 71,
+      "votes": 4735,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 95603,
+      "type": "tv",
+      "title": "쿠룰루스 오스만",
+      "title_original": "Kuruluş Osman",
+      "poster": "/ykZFJ0kqL57SyogceHCwU17RgKc.jpg",
+      "backdrop": "/ndLd4IIc90ajv5VpCaLfqmmEYOb.jpg",
+      "year": "2019",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 71,
+      "votes": 291,
+      "ott": [
+        "wavve",
+        "Watcha",
+        "TVING"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1403,
+      "type": "tv",
+      "title": "에이전트 오브 쉴드",
+      "title_original": "Marvel's Agents of S.H.I.E.L.D.",
+      "poster": "/86BdTM6j3aEizD0OKt09OUmrInB.jpg",
+      "backdrop": "/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg",
+      "year": "2013",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 71,
+      "votes": 3683,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 411,
+      "type": "movie",
+      "title": "나니아 연대기: 사자, 마녀 그리고 옷장",
+      "title_original": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "poster": "/vSY6MgDWD5Ch5I87X8BaxZyydCI.jpg",
+      "backdrop": "/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
+      "year": "2005",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 70,
+      "votes": 11184,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 661374,
+      "type": "movie",
+      "title": "나이브스 아웃: 글래스 어니언",
+      "title_original": "Glass Onion: A Knives Out Mystery",
+      "poster": "/lrgmo1qluO9c2qdBduiu412fRDS.jpg",
+      "backdrop": "/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
+      "year": "2022",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 69,
+      "votes": 6256,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 986056,
+      "type": "movie",
+      "title": "썬더볼츠*",
+      "title_original": "Thunderbolts*",
+      "poster": "/iTX4O9gb8Jn0F5N5WgYnbIopdnP.jpg",
+      "backdrop": "/wSdWEc1G3OUWg8HAzNLqOZ9Gd43.jpg",
+      "year": "2025",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 69,
+      "votes": 2974,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 812583,
+      "type": "movie",
+      "title": "나이브스 아웃: 웨이크 업 데드 맨",
+      "title_original": "Wake Up Dead Man: A Knives Out Mystery",
+      "poster": "/qFXkslzkBIihZnwyYal9WnQ9OTe.jpg",
+      "backdrop": "/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
+      "year": "2025",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 68,
+      "votes": 597,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    },
+    {
+      "id": 552524,
+      "type": "movie",
+      "title": "릴로 & 스티치",
+      "title_original": "Lilo & Stitch",
+      "poster": "/ww7jn7lv1YzTAGd5m0R6CP1VXAs.jpg",
+      "backdrop": "/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+      "year": "2025",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 68,
+      "votes": 1883,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 785663,
+      "type": "movie",
+      "title": "올드 헨리",
+      "title_original": "Old Henry",
+      "poster": "/nsVFxkXRkC1yoEQzINtR3MNU72F.jpg",
+      "backdrop": "/1uCX0fpYOdvrTIYulFymWOP08HT.jpg",
+      "year": "2022",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 67,
+      "votes": 642,
+      "ott": [
+        "wavve",
+        "Watcha",
+        "TVING"
+      ],
+      "tags": []
+    },
+    {
+      "id": 617126,
+      "type": "movie",
+      "title": "판타스틱 4: 새로운 출발",
+      "title_original": "The Fantastic 4: First Steps",
+      "poster": "/sHgIQvDlk5188wo9jM8IKFeyJUd.jpg",
+      "backdrop": "/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
+      "year": "2025",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 66,
+      "votes": 2628,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1241982,
+      "type": "movie",
+      "title": "모아나 2",
+      "title_original": "Moana 2",
+      "poster": "/hwmwTFtMbzxAWbIOp1RyyiOCyx0.jpg",
+      "backdrop": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+      "year": "2024",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 66,
+      "votes": 2822,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 103540,
+      "type": "tv",
+      "title": "퍼시 잭슨과 올림포스의 신들",
+      "title_original": "Percy Jackson and the Olympians",
+      "poster": "/3lCExsvn5CKzfRXFUIp7LIoUgfd.jpg",
+      "backdrop": "/danN2NzJTMouaBEkDWTnyDjDxUt.jpg",
+      "year": "2023",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 66,
+      "votes": 629,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": []
+    },
+    {
+      "id": 72755,
+      "type": "tv",
+      "title": "앱센시아",
+      "title_original": "Absentia",
+      "poster": "/t3yVaAlmCLBwbqTrKGcWHwuCmkh.jpg",
+      "backdrop": "/uXY6k8Gd45cTGzlz5s0A2ejDBXa.jpg",
+      "year": "2017",
+      "runtime": null,
+      "episode_runtime": null,
+      "score": 66,
+      "votes": 352,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": []
+    }
+  ]
+}
