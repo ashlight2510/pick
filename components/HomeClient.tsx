@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import { Hero } from "./Hero";
 import { QuickPicks } from "./QuickPicks";
 import { Questionnaire } from "./Questionnaire";
@@ -31,14 +31,16 @@ export function HomeClient() {
   useEffect(() => {
     if (!titles.length) return;
     const filtered = filterTitles(titles, answers);
-    const base = filtered.length ? filtered : titles;
+    const enforceFilters = Boolean(answers.actor?.trim()) || Boolean(answers.genres?.length);
+    const base = filtered.length || enforceFilters ? filtered : titles;
     setResults(pickRandom(base, 10));
   }, [answers, titles]);
 
   const reroll = () => {
     if (!titles.length) return;
     const filtered = filterTitles(titles, answers);
-    const base = filtered.length ? filtered : titles;
+    const enforceFilters = Boolean(answers.actor?.trim()) || Boolean(answers.genres?.length);
+    const base = filtered.length || enforceFilters ? filtered : titles;
     setResults(pickRandom(base, 10));
   };
 
@@ -46,16 +48,31 @@ export function HomeClient() {
     setAnswers((a) => ({ ...a, ...preset }));
   };
 
+  const updateAnswer = (key: keyof QuestionAnswers, value: any) => {
+    setAnswers((a) => {
+      const next = { ...a, [key]: value };
+      if (key === "actor" && !value) {
+        delete next.actor;
+      }
+      return next;
+    });
+  };
+
   return (
     <main className="max-w-6xl mx-auto px-4 py-8 space-y-6">
       <Hero />
       <Questionnaire
         answers={answers}
-        onChange={(key, value) => setAnswers((a) => ({ ...a, [key]: value }))}
+        onChange={updateAnswer}
       />
       <div className="space-y-4">
         <QuickPicks onPick={applyQuick} />
-        <ResultGrid items={results} onReroll={reroll} />
+        <ResultGrid
+          items={results}
+          onReroll={reroll}
+          actorQuery={answers.actor ?? ""}
+          onActorChange={(value) => updateAnswer("actor", value)}
+        />
       </div>
       <div className="flex justify-center pt-8 mt-12 border-t border-gray-200">
         <a

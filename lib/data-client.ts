@@ -13,6 +13,8 @@ export type TitleItem = {
   ott: string[];
   tags: string[];
   reason?: string;
+  genres?: string[];
+  cast?: string[];
 };
 
 type DataPayload = {
@@ -38,6 +40,8 @@ export async function loadTitles(): Promise<TitleItem[]> {
       data.items?.map((i) => ({
         ...i,
         ott: normalizeOtt(i.ott ?? []),
+        genres: i.genres ?? [],
+        cast: i.cast ?? [],
       })) ?? [];
     cache = { ...data, items };
     return items;
@@ -55,10 +59,15 @@ export type QuestionAnswers = {
   ott?: string;
   type?: "movie" | "tv";
   extra?: "must" | "hidden";
+  genres?: string[];
+  actor?: string;
 };
 
 export function filterTitles(titles: TitleItem[], answers: QuestionAnswers) {
   return titles.filter((t) => {
+    const castList = t.cast ?? [];
+    const genres = t.genres ?? [];
+
     // format preference from duration or explicit type
     if (answers.type && t.type !== answers.type) return false;
     if (answers.duration === "binge" && t.type !== "tv") return false;
@@ -104,6 +113,20 @@ export function filterTitles(titles: TitleItem[], answers: QuestionAnswers) {
     // extra presets (퀵 버튼용)
     if (answers.extra === "must" && t.score < 85) return false;
     if (answers.extra === "hidden" && !(t.score >= 75 && t.votes < 5000)) return false;
+
+    // genres (multi-select)
+    if (answers.genres?.length) {
+      const hasAll = answers.genres.every((g) => genres.includes(g));
+      if (!hasAll) return false;
+    }
+
+    // actor search (case-insensitive, supports Korean)
+    const actorQuery = answers.actor?.trim();
+    if (actorQuery) {
+      const normalizedQuery = actorQuery.toLowerCase();
+      const match = castList.some((name) => name.toLowerCase().includes(normalizedQuery));
+      if (!match) return false;
+    }
 
     return true;
   });

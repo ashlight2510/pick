@@ -17,6 +17,8 @@ type TitleItem = {
   ott: string[];
   tags?: string[];
   reason?: string;
+  genres?: string[];
+  cast?: string[];
 };
 
 export async function generateStaticParams() {
@@ -51,6 +53,12 @@ const PROVIDER_URL: Record<string, string> = {
 function normalizeOtt(ott: string[]) {
   const mapped = ott.map((o) => (o === "Netflix Standard with Ads" ? "Netflix" : o));
   return Array.from(new Set(mapped));
+}
+
+function formatRuntime(item: TitleItem) {
+  if (item.type === "movie" && item.runtime) return `${item.runtime}분`;
+  if (item.type === "tv" && item.episode_runtime) return `회당 ${item.episode_runtime}분`;
+  return "정보 없음";
 }
 
 async function loadAllTitles(): Promise<TitleItem[]> {
@@ -143,6 +151,28 @@ export default async function TitlePage({ params }: { params: Promise<{ id: stri
               </span>
             ))}
           </div>
+          <div className="mt-4 grid grid-cols-1 sm:grid-cols-2 gap-2 text-sm text-gray-700">
+            <div className="flex items-center gap-2">
+              <span className="text-gray-500">원제</span>
+              <span className="font-medium">{item.title_original ?? "-"}</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <span className="text-gray-500">장르</span>
+              <span className="font-medium">
+                {item.genres?.length ? item.genres.join(", ") : "정보 없음"}
+              </span>
+            </div>
+            <div className="flex items-center gap-2">
+              <span className="text-gray-500">러닝타임</span>
+              <span className="font-medium">{formatRuntime(item)}</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <span className="text-gray-500">평점·투표</span>
+              <span className="font-medium">
+                {item.score}점 · {item.votes.toLocaleString()}명
+              </span>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -164,6 +194,24 @@ export default async function TitlePage({ params }: { params: Promise<{ id: stri
             );
           })}
         </div>
+      </section>
+
+      <section className="mb-8">
+        <h2 className="font-semibold mb-3">출연</h2>
+        {item.cast?.length ? (
+          <div className="flex flex-wrap gap-2">
+            {item.cast.map((name) => (
+              <span
+                key={name}
+                className="rounded-full border border-gray-200 bg-white px-3 py-1 text-sm shadow-sm"
+              >
+                {name}
+              </span>
+            ))}
+          </div>
+        ) : (
+          <p className="text-sm text-gray-500">출연 정보가 아직 없어요.</p>
+        )}
       </section>
 
       <section>

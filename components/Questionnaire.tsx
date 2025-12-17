@@ -3,6 +3,19 @@
 import { QuestionAnswers } from "@/lib/data-client";
 
 const OTT_OPTIONS = ["Netflix", "wavve", "Watcha", "TVING", "Disney Plus"];
+const GENRE_OPTIONS = [
+  "액션",
+  "코미디",
+  "드라마",
+  "스릴러",
+  "로맨스",
+  "SF/판타지",
+  "범죄",
+  "다큐멘터리",
+  "애니메이션",
+  "가족/키즈",
+  "공포",
+];
 
 export function Questionnaire({
   answers,
@@ -11,6 +24,13 @@ export function Questionnaire({
   answers: QuestionAnswers;
   onChange: (key: keyof QuestionAnswers, value: any) => void;
 }) {
+  const toggleGenre = (genre: string) => {
+    const current = answers.genres ?? [];
+    const exists = current.includes(genre);
+    const next = exists ? current.filter((g) => g !== genre) : [...current, genre];
+    onChange("genres", next);
+  };
+
   return (
     <section className="mb-8">
       <div className="mb-4">
@@ -91,6 +111,18 @@ export function Questionnaire({
           {OTT_OPTIONS.map((ott) => (
             <Button key={ott} active={answers.ott === ott} onClick={() => onChange("ott", ott)}>
               {ott}
+            </Button>
+          ))}
+        </Card>
+
+        <Card title="Q6. 어떤 장르가 땡겨?">
+          {GENRE_OPTIONS.map((genre) => (
+            <Button
+              key={genre}
+              active={answers.genres?.includes(genre)}
+              onClick={() => toggleGenre(genre)}
+            >
+              {genre}
             </Button>
           ))}
         </Card>

@@ -4,53 +4,78 @@ import { TitleItem } from "@/lib/data-client";
 export function ResultGrid({
   items,
   onReroll,
+  actorQuery,
+  onActorChange,
 }: {
   items: TitleItem[];
   onReroll: () => void;
+  actorQuery: string;
+  onActorChange: (value: string) => void;
 }) {
   return (
     <section className="mt-6">
       <div className="flex flex-wrap items-center gap-3 mb-4">
-        <h2 className="text-xl font-semibold">추천 결과</h2>
-        <button
-          onClick={onReroll}
-          className="px-3 py-1 rounded-lg border text-sm bg-white border-gray-200 shadow-sm hover:-translate-y-0.5 transition hover:shadow"
-        >
-          다른 추천 돌리기
-        </button>
+        <div className="flex items-center gap-3">
+          <h2 className="text-xl font-semibold">추천 결과</h2>
+          <button
+            onClick={onReroll}
+            className="px-3 py-1 rounded-lg border text-sm bg-white border-gray-200 shadow-sm hover:-translate-y-0.5 transition hover:shadow"
+          >
+            다른 추천 돌리기
+          </button>
+        </div>
+        <div className="ml-auto w-full sm:w-72">
+          <label className="sr-only" htmlFor="actor-search">
+            배우 검색
+          </label>
+          <input
+            id="actor-search"
+            type="search"
+            placeholder="배우 이름 검색 (한글)"
+            value={actorQuery}
+            onChange={(e) => onActorChange(e.target.value)}
+            className="w-full rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm shadow-sm focus:border-gray-400 focus:outline-none focus:ring-0"
+          />
+        </div>
       </div>
 
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4">
-        {items.map((item) => (
-          <Link
-            key={`${item.type}-${item.id}`}
-            href={`/title/${item.id}`}
-            className="rounded-lg border hover:shadow overflow-hidden bg-white"
-          >
-            <div className="aspect-[2/3] bg-gray-100 overflow-hidden">
-              {item.poster && (
-                <img
-                  src={`https://image.tmdb.org/t/p/w500${item.poster}`}
-                  alt={item.title}
-                  className="w-full h-full object-cover"
-                  loading="lazy"
-                />
-              )}
-            </div>
-            <div className="p-2">
-              <div className="text-sm font-medium truncate">{item.title}</div>
-              <div className="text-xs text-gray-500">
-                {item.score}점 · {item.ott?.[0] ?? "OTT"}
+      {items.length === 0 ? (
+        <div className="rounded-lg border border-dashed border-gray-200 bg-white p-6 text-sm text-gray-500">
+          조건에 맞는 작품이 없어요. 배우 이름을 한글로 입력했는지 확인하거나 장르·필터를 조정해보세요.
+        </div>
+      ) : (
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4">
+          {items.map((item) => (
+            <Link
+              key={`${item.type}-${item.id}`}
+              href={`/title/${item.id}`}
+              className="rounded-lg border hover:shadow overflow-hidden bg-white"
+            >
+              <div className="aspect-[2/3] bg-gray-100 overflow-hidden">
+                {item.poster && (
+                  <img
+                    src={`https://image.tmdb.org/t/p/w500${item.poster}`}
+                    alt={item.title}
+                    className="w-full h-full object-cover"
+                    loading="lazy"
+                  />
+                )}
               </div>
-              {(item.reason || item.tags?.length) && (
-                <div className="text-xs text-gray-400 overflow-hidden text-ellipsis">
-                  {item.reason ?? item.tags?.[0]}
+              <div className="p-2">
+                <div className="text-sm font-medium truncate">{item.title}</div>
+                <div className="text-xs text-gray-500">
+                  {item.score}점 · {item.ott?.[0] ?? "OTT"}
                 </div>
-              )}
-            </div>
-          </Link>
-        ))}
-      </div>
+                {(item.reason || item.tags?.length) && (
+                  <div className="text-xs text-gray-400 overflow-hidden text-ellipsis">
+                    {item.reason ?? item.tags?.[0]}
+                  </div>
+                )}
+              </div>
+            </Link>
+          ))}
+        </div>
+      )}
     </section>
   );
 }

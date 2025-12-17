@@ -11,11 +11,55 @@ loadEnv();
 type MediaType = "movie" | "tv";
 
 const PROVIDERS = "8|356|337|97"; // Netflix, wavve, TVING, Coupang
-const PAGES_PER_TYPE = 3;
+const PAGES_PER_TYPE = 5;
+
+// TMDB genre id -> FunnyPick genre label (Korean)
+const GENRE_MAP: Record<number, string[]> = {
+  28: ["액션"], // Action
+  12: ["액션"], // Adventure
+  10759: ["액션"], // Action & Adventure (TV)
+  35: ["코미디"],
+  18: ["드라마"],
+  53: ["스릴러"],
+  9648: ["스릴러"],
+  80: ["범죄"],
+  10749: ["로맨스"],
+  878: ["SF/판타지"],
+  14: ["SF/판타지"],
+  10765: ["SF/판타지"],
+  99: ["다큐멘터리"],
+  16: ["애니메이션"],
+  10751: ["가족/키즈"],
+  10762: ["가족/키즈"],
+  27: ["공포"],
+  36: ["드라마"], // History
+  10752: ["드라마"], // War
+  37: ["드라마"], // Western
+  10402: ["음악"],
+};
 
 async function getProviders(type: MediaType, id: number): Promise<string[]> {
   const data = await tmdb(`/${type}/${id}/watch/providers`);
   return data?.results?.KR?.flatrate?.map((p: any) => p.provider_name) ?? [];
+}
+
+async function getDetails(type: MediaType, id: number): Promise<any> {
+  return tmdb(`/${type}/${id}`, { language: "ko-KR" });
+}
+
+function mapGenres(genreIds: number[] = []): string[] {
+  const labels = genreIds.flatMap((id) => GENRE_MAP[id] ?? []);
+  return Array.from(new Set(labels));
+}
+
+async function getTopCast(type: MediaType, id: number): Promise<string[]> {
+  const data = await tmdb(`/${type}/${id}/credits`, { language: "ko-KR" });
+  const cast = Array.isArray(data?.cast) ? data.cast : [];
+  const names = cast
+    .slice(0, 8)
+    .map((c: any) => c.name || c.original_name)
+    .filter(Boolean);
+  return Array.from(new Set(names));
 }
 
 function buildTags(item: any, ott: string[]) {
@@ -40,23 +84,36 @@ function buildReason(tags: string[], score: number) {
   return "취향 맞으면 꽤 만족도 높은 선택";
 }
 
-function normalizeItem(item: any, type: MediaType, ott: string[]) {
+function normalizeItem(item: any, detail: any, type: MediaType, ott: string[], cast: string[]) {
   const score = calcFunnyPickScore(item.vote_average, item.vote_count, ott.length);
   const tags = buildTags(item, ott);
+  const runtime = detail?.runtime ?? item.runtime ?? null;
+  const epRuntime =
+    detail?.episode_run_time?.[0] ?? detail?.episode_run_time ?? item.episode_run_time?.[0] ?? null;
+  const genreIds =
+    detail?.genres?.map((g: any) => g.id).filter(Boolean) ??
+    detail?.genre_ids ??
+    item.genre_ids ??
+    [];
   return {
     id: item.id,
     type,
     title: item.title || item.name,
-    title_original: item.original_title || item.original_name,
+    title_original: detail?.original_title || detail?.original_name || item.original_title || item.original_name,
     poster: item.poster_path,
     backdrop: item.backdrop_path,
-    year: (item.release_date || item.first_air_date || "").slice(0, 4),
-    runtime: item.runtime ?? null,
-    episode_runtime: item.episode_run_time?.[0] ?? null,
+    year: (item.release_date || item.first_air_date || detail?.release_date || detail?.first_air_date || "").slice(
+      0,
+      4
+    ),
+    runtime,
+    episode_runtime: epRuntime,
     score,
     votes: item.vote_count,
     ott,
     tags,
+    genres: mapGenres(genreIds),
+    cast,
     reason: buildReason(tags, score),
   };
 }
@@ -87,9 +144,11 @@ async function main() {
       if (!results.length) break;
 
       for (const item of results) {
+        const detail = await getDetails(type, item.id);
         const ott = await getProviders(type, item.id);
         if (ott.length === 0) continue; // keep only titles watchable in KR OTT
-        collected.push(normalizeItem(item, type, ott));
+        const cast = await getTopCast(type, item.id);
+        collected.push(normalizeItem(item, detail, type, ott, cast));
       }
     }
   }

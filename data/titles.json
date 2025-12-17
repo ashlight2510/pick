@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-16T15:38:52.964Z",
+  "generated_at": "2025-12-17T04:06:37.952Z",
   "items": [
     {
       "id": 1396,
@@ -10,9 +10,9 @@
       "backdrop": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
       "year": "2008",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 91,
-      "votes": 16686,
+      "votes": 16688,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -21,6 +21,20 @@
         "무조건 추천",
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "범죄"
+      ],
+      "cast": [
+        "브라이언 크랜스턴",
+        "아론 폴",
+        "애나 건",
+        "RJ 미티",
+        "딘 노리스",
+        "베치 브랜트",
+        "밥 오덴커크",
+        "조너선 뱅크스"
       ],
       "reason": "평점과 접근성이 모두 검증된 작품"
     },
@@ -32,10 +46,10 @@
       "poster": "/1yvBkSv4ZLS1GohlmMDmdpSgfYo.jpg",
       "backdrop": "/39rtAdg3yx6IDxRg0ZLXefv0aPY.jpg",
       "year": "1972",
-      "runtime": null,
+      "runtime": 175,
       "episode_runtime": null,
       "score": 89,
-      "votes": 22154,
+      "votes": 22155,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -44,6 +58,20 @@
         "무조건 추천",
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "범죄"
+      ],
+      "cast": [
+        "말론 브란도",
+        "알 파치노",
+        "제임스 칸",
+        "로버트 듀발",
+        "리차드 S. 카텔라노",
+        "다이앤 키튼",
+        "탈리아 샤이어",
+        "지아니 루소"
       ],
       "reason": "평점과 접근성이 모두 검증된 작품"
     },
@@ -55,16 +83,30 @@
       "poster": "/qV9BQZdiM8foEzDz0Ag5hGWE5qM.jpg",
       "backdrop": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
       "year": "1995",
-      "runtime": null,
+      "runtime": 142,
       "episode_runtime": null,
       "score": 88,
-      "votes": 29361,
+      "votes": 29362,
       "ott": [
         "wavve"
       ],
       "tags": [
         "무조건 추천",
         "대중픽"
+      ],
+      "genres": [
+        "드라마",
+        "범죄"
+      ],
+      "cast": [
+        "팀 로빈스",
+        "모건 프리먼",
+        "밥 건턴",
+        "윌리엄 새들러",
+        "클랜시 브라운",
+        "Gil Bellows",
+        "James Whitmore",
+        "Mark Rolston"
       ],
       "reason": "평점과 접근성이 모두 검증된 작품"
     },
@@ -77,9 +119,9 @@
       "backdrop": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
       "year": "2016",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 88,
-      "votes": 19541,
+      "votes": 19554,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -88,6 +130,21 @@
         "무조건 추천",
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "SF/판타지",
+        "스릴러",
+        "액션"
+      ],
+      "cast": [
+        "밀리 바비 브라운",
+        "위노나 라이더",
+        "데이비드 하버",
+        "핀 울프하드",
+        "게이튼 매터래조",
+        "케일럽 맥러플린",
+        "노아 슈냅",
+        "세이디 싱크"
       ],
       "reason": "평점과 접근성이 모두 검증된 작품"
     },
@@ -99,10 +156,10 @@
       "poster": "/zTgjeblxSLSvomt6F6UYtpiD4n7.jpg",
       "backdrop": "/ii8QGacT3MXESqBckQlyrATY0lT.jpg",
       "year": "2010",
-      "runtime": null,
+      "runtime": 148,
       "episode_runtime": null,
       "score": 87,
-      "votes": 38350,
+      "votes": 38353,
       "ott": [
         "wavve",
         "Watcha"
@@ -110,6 +167,20 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "레오나르도 디카프리오",
+        "조셉 고든레빗",
+        "와타나베 켄",
+        "톰 하디",
+        "엘리엇 페이지",
+        "딜립 라오",
+        "킬리언 머피",
+        "톰 베렌저"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -121,7 +192,7 @@
       "poster": "/eKZ07Ted7VHxQjbuZrRBFOamcKJ.jpg",
       "backdrop": "/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
       "year": "1999",
-      "runtime": null,
+      "runtime": 139,
       "episode_runtime": null,
       "score": 87,
       "votes": 31094,
@@ -133,28 +204,19 @@
         "대중픽",
         "접근성 좋음"
       ],
-      "reason": "여러 OTT에서 바로 볼 수 있음"
-    },
-    {
-      "id": 120,
-      "type": "movie",
-      "title": "반지의 제왕: 반지 원정대",
-      "title_original": "The Lord of the Rings: The Fellowship of the Ring",
-      "poster": "/r18JdjImbWDRwkbVDIzWoLQqkCo.jpg",
-      "backdrop": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
-      "year": "2001",
-      "runtime": null,
-      "episode_runtime": null,
-      "score": 87,
-      "votes": 26688,
-      "ott": [
-        "Amazon Prime Video",
-        "wavve",
-        "Watcha"
+      "genres": [
+        "드라마",
+        "스릴러"
       ],
-      "tags": [
-        "대중픽",
-        "접근성 좋음"
+      "cast": [
+        "에드워드 노튼",
+        "브래드 피트",
+        "헬레나 본햄 카터",
+        "Meat Loaf",
+        "자레드 레토",
+        "Zach Grenier",
+        "홀트 매캘러니",
+        "에이온 바일리"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -166,7 +228,7 @@
       "poster": "/aZuBfbR0PnCb2up7lqHDsgJlLjs.jpg",
       "backdrop": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
       "year": "2002",
-      "runtime": null,
+      "runtime": 124,
       "episode_runtime": null,
       "score": 87,
       "votes": 17710,
@@ -179,6 +241,21 @@
         "대중픽",
         "접근성 좋음"
       ],
+      "genres": [
+        "애니메이션",
+        "가족/키즈",
+        "SF/판타지"
+      ],
+      "cast": [
+        "히이라기 루미",
+        "이리노 미유",
+        "나츠키 마리",
+        "나이토 타카시",
+        "사와구치 야스코",
+        "가슈인 타츠야",
+        "카미키 류노스케",
+        "타마이 유미"
+      ],
       "reason": "평점과 접근성이 모두 검증된 작품"
     },
     {
@@ -189,10 +266,10 @@
       "poster": "/xdJxoq0dtkchOkUz5UVKuxn7a2V.jpg",
       "backdrop": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
       "year": "1994",
-      "runtime": null,
+      "runtime": 142,
       "episode_runtime": null,
       "score": 87,
-      "votes": 28948,
+      "votes": 28949,
       "ott": [
         "Netflix",
         "Watcha",
@@ -201,6 +278,21 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "코미디",
+        "드라마",
+        "로맨스"
+      ],
+      "cast": [
+        "톰 행크스",
+        "로빈 라이트",
+        "게리 시나이즈",
+        "샐리 필드",
+        "미켈티 윌리엄슨",
+        "Michael Conner Humphreys",
+        "Hanna Hall",
+        "헤일리 조엘 오스먼트"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -212,10 +304,10 @@
       "poster": "/mSi0gskYpmf1FbXngM37s2HppXh.jpg",
       "backdrop": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
       "year": "2019",
-      "runtime": null,
+      "runtime": 131,
       "episode_runtime": null,
       "score": 87,
-      "votes": 19800,
+      "votes": 19804,
       "ott": [
         "Netflix",
         "Watcha",
@@ -225,6 +317,57 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "코미디",
+        "스릴러",
+        "드라마"
+      ],
+      "cast": [
+        "송강호",
+        "이선균",
+        "조여정",
+        "최우식",
+        "박소담",
+        "이정은",
+        "장혜진",
+        "박명훈"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 122,
+      "type": "movie",
+      "title": "반지의 제왕: 왕의 귀환",
+      "title_original": "The Lord of the Rings: The Return of the King",
+      "poster": "/n8BPIRqvj1SdTRND828ANXhmSng.jpg",
+      "backdrop": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+      "year": "2003",
+      "runtime": 199,
+      "episode_runtime": null,
+      "score": 87,
+      "votes": 25740,
+      "ott": [
+        "Amazon Prime Video",
+        "wavve"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "일라이저 우드",
+        "이안 맥켈런",
+        "비고 모텐슨",
+        "숀 애스틴",
+        "앤디 서키스",
+        "도미닉 모너핸",
+        "빌리 보이드",
+        "John Noble"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -237,9 +380,9 @@
       "backdrop": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
       "year": "2013",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 87,
-      "votes": 10546,
+      "votes": 10549,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -248,6 +391,19 @@
         "무조건 추천",
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "코미디",
+        "SF/판타지",
+        "액션"
+      ],
+      "cast": [
+        "Chris Parnell",
+        "Spencer Grammer",
+        "Sarah Chalke",
+        "Ian Cardoni",
+        "Harry Belden"
       ],
       "reason": "평점과 접근성이 모두 검증된 작품"
     },
@@ -259,15 +415,30 @@
       "poster": "/evoEi8SBSvIIEveM3V6nCJ6vKj8.jpg",
       "backdrop": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
       "year": "2014",
-      "runtime": null,
+      "runtime": 169,
       "episode_runtime": null,
       "score": 86,
-      "votes": 38398,
+      "votes": 38401,
       "ott": [
         "wavve"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "드라마",
+        "SF/판타지"
+      ],
+      "cast": [
+        "매튜 매커너히",
+        "앤 해서웨이",
+        "마이클 케인",
+        "제시카 차스테인",
+        "케이시 애플렉",
+        "웨스 벤틀리",
+        "토퍼 그레이스",
+        "맥켄지 포이"
       ],
       "reason": "대부분 만족하는 평점"
     },
@@ -279,10 +450,10 @@
       "poster": "/zxZdTi3fA7aDxEOivmzZAY2bmTu.jpg",
       "backdrop": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
       "year": "2002",
-      "runtime": null,
+      "runtime": 177,
       "episode_runtime": null,
       "score": 86,
-      "votes": 23167,
+      "votes": 23168,
       "ott": [
         "Amazon Prime Video",
         "wavve"
@@ -290,6 +461,20 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "일라이저 우드",
+        "이안 맥켈런",
+        "비고 모텐슨",
+        "숀 애스틴",
+        "앤디 서키스",
+        "존 라이스 데이비스",
+        "올랜도 블룸",
+        "버나드 힐"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -301,16 +486,140 @@
       "poster": "/f6dNinWX8rBM79JXKcShkfSh2oA.jpg",
       "backdrop": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
       "year": "2008",
-      "runtime": null,
+      "runtime": 152,
       "episode_runtime": null,
       "score": 86,
-      "votes": 34825,
+      "votes": 34827,
       "ott": [
         "wavve"
       ],
       "tags": [
         "무조건 추천",
         "대중픽"
+      ],
+      "genres": [
+        "드라마",
+        "액션",
+        "범죄",
+        "스릴러"
+      ],
+      "cast": [
+        "크리스찬 베일",
+        "히스 레저",
+        "에런 엑하트",
+        "마이클 케인",
+        "메기 질렌할",
+        "게리 올드만",
+        "모건 프리먼",
+        "모니크 커넨"
+      ],
+      "reason": "평점과 접근성이 모두 검증된 작품"
+    },
+    {
+      "id": 120,
+      "type": "movie",
+      "title": "반지의 제왕: 반지 원정대",
+      "title_original": "The Lord of the Rings: The Fellowship of the Ring",
+      "poster": "/r18JdjImbWDRwkbVDIzWoLQqkCo.jpg",
+      "backdrop": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+      "year": "2001",
+      "runtime": 227,
+      "episode_runtime": null,
+      "score": 86,
+      "votes": 26687,
+      "ott": [
+        "Amazon Prime Video",
+        "wavve",
+        "Watcha"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "일라이저 우드",
+        "이안 맥켈런",
+        "비고 모텐슨",
+        "숀 애스틴",
+        "이안 홈",
+        "리브 타일러",
+        "크리스토퍼 리",
+        "숀 빈"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 71712,
+      "type": "tv",
+      "title": "굿 닥터",
+      "title_original": "The Good Doctor",
+      "poster": "/luhKkdD80qe62fwop6sdrXK9jUT.jpg",
+      "backdrop": "/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+      "year": "2017",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 86,
+      "votes": 12674,
+      "ott": [
+        "Netflix",
+        "wavve",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "무조건 추천",
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "cast": [
+        "프레디 하이모어",
+        "Fiona Gubelmann",
+        "Will Yun Lee",
+        "Christina Chang",
+        "Paige Spara",
+        "Bria Samoné Henderson",
+        "Noah Galvin",
+        "Chuku Modu"
+      ],
+      "reason": "평점과 접근성이 모두 검증된 작품"
+    },
+    {
+      "id": 60059,
+      "type": "tv",
+      "title": "베터 콜 사울",
+      "title_original": "Better Call Saul",
+      "poster": "/4VrmpuhjCtsFNAyW8Cd1fYBKJtf.jpg",
+      "backdrop": "/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg",
+      "year": "2015",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 86,
+      "votes": 6035,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "무조건 추천",
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "범죄",
+        "드라마"
+      ],
+      "cast": [
+        "밥 오덴커크",
+        "조너선 뱅크스",
+        "레이 시혼",
+        "토니 돌턴",
+        "지안카를로 에스포지토"
       ],
       "reason": "평점과 접근성이 모두 검증된 작품"
     },
@@ -322,10 +631,10 @@
       "poster": "/2DJCufz3Oa703PbLjNX1pM6MCG2.jpg",
       "backdrop": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
       "year": "2017",
-      "runtime": null,
+      "runtime": 106,
       "episode_runtime": null,
       "score": 85,
-      "votes": 12153,
+      "votes": 12155,
       "ott": [
         "wavve",
         "Watcha"
@@ -333,6 +642,21 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "로맨스",
+        "드라마"
+      ],
+      "cast": [
+        "카미키 류노스케",
+        "카미시라이시 모네",
+        "나리타 료",
+        "유우키 아오이",
+        "시마자키 노부나가",
+        "이시카와 카이토",
+        "타니 카논",
+        "테라소마 마사키"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -345,9 +669,9 @@
       "backdrop": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
       "year": "2004",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 44,
       "score": 85,
-      "votes": 7212,
+      "votes": 7213,
       "ott": [
         "Netflix",
         "Amazon Prime Video",
@@ -359,30 +683,21 @@
         "대중픽",
         "접근성 좋음"
       ],
+      "genres": [
+        "드라마",
+        "코미디",
+        "스릴러"
+      ],
+      "cast": [
+        "휴 로리",
+        "Robert Sean Leonard",
+        "오마 엡스",
+        "제시 스펜서",
+        "Odette Annable",
+        "피터 제이컵슨",
+        "Charlyne Yi"
+      ],
       "reason": "평점과 접근성이 모두 검증된 작품"
-    },
-    {
-      "id": 71712,
-      "type": "tv",
-      "title": "굿 닥터",
-      "title_original": "The Good Doctor",
-      "poster": "/luhKkdD80qe62fwop6sdrXK9jUT.jpg",
-      "backdrop": "/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
-      "year": "2017",
-      "runtime": null,
-      "episode_runtime": null,
-      "score": 85,
-      "votes": 12674,
-      "ott": [
-        "Netflix",
-        "wavve",
-        "Netflix Standard with Ads"
-      ],
-      "tags": [
-        "대중픽",
-        "접근성 좋음"
-      ],
-      "reason": "여러 OTT에서 바로 볼 수 있음"
     },
     {
       "id": 63174,
@@ -393,9 +708,9 @@
       "backdrop": "/ncftkNAjIz2PBbUMY7T0CHVJP8d.jpg",
       "year": "2016",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 45,
       "score": 85,
-      "votes": 15213,
+      "votes": 15214,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -404,7 +719,62 @@
         "대중픽",
         "접근성 좋음"
       ],
+      "genres": [
+        "범죄",
+        "SF/판타지"
+      ],
+      "cast": [
+        "톰 엘리스",
+        "로렌 저먼",
+        "케빈 알레한드로",
+        "D.B. 우드사이드",
+        "Lesley-Ann Brandt",
+        "Aimee Garcia",
+        "레이첼 해리스",
+        "브리아나 힐데브란드"
+      ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 37854,
+      "type": "tv",
+      "title": "원피스",
+      "title_original": "ワンピース",
+      "poster": "/qHjXsSUuolEtbgvYPzRjAuB1VHE.jpg",
+      "backdrop": "/oVfucXvhutTpYExG9k06NJqnpT9.jpg",
+      "year": "1999",
+      "runtime": null,
+      "episode_runtime": 24,
+      "score": 85,
+      "votes": 5066,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": [
+        "무조건 추천",
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "코미디",
+        "애니메이션"
+      ],
+      "cast": [
+        "타나카 마유미",
+        "나카이 카즈야",
+        "오카무라 아케미",
+        "야마구치 캇페이",
+        "히라타 히로아키",
+        "오오타니 이쿠에",
+        "야마구치 유리코",
+        "矢尾一樹"
+      ],
+      "reason": "평점과 접근성이 모두 검증된 작품"
     },
     {
       "id": 98,
@@ -414,10 +784,10 @@
       "poster": "/yemF0xxGU56Pf3JXxVr4C6kuKng.jpg",
       "backdrop": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
       "year": "2000",
-      "runtime": null,
+      "runtime": 154,
       "episode_runtime": null,
       "score": 84,
-      "votes": 20292,
+      "votes": 20295,
       "ott": [
         "Netflix",
         "wavve",
@@ -428,7 +798,56 @@
         "대중픽",
         "접근성 좋음"
       ],
+      "genres": [
+        "액션",
+        "드라마"
+      ],
+      "cast": [
+        "러셀 크로우",
+        "호아킨 피닉스",
+        "코니 닐센",
+        "올리버 리드",
+        "리처드 해리스",
+        "데릭 재커비",
+        "자이먼 혼수",
+        "데이비드 쇼필드"
+      ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 240,
+      "type": "movie",
+      "title": "대부 2",
+      "title_original": "The Godfather Part II",
+      "poster": "/35RGDgySfINL9V2e6lkDECQ0hRa.jpg",
+      "backdrop": "/14icRpwdgpHEHxt7Cn5hr2RQEsF.jpg",
+      "year": "1978",
+      "runtime": 202,
+      "episode_runtime": null,
+      "score": 84,
+      "votes": 13395,
+      "ott": [
+        "Netflix"
+      ],
+      "tags": [
+        "무조건 추천",
+        "대중픽"
+      ],
+      "genres": [
+        "드라마",
+        "범죄"
+      ],
+      "cast": [
+        "알 파치노",
+        "로버트 듀발",
+        "다이앤 키튼",
+        "로버트 드 니로",
+        "존 카제일",
+        "탈리아 샤이어",
+        "리 스트라스버그",
+        "마이클 V. 가조"
+      ],
+      "reason": "평점과 접근성이 모두 검증된 작품"
     },
     {
       "id": 119051,
@@ -436,12 +855,12 @@
       "title": "웬즈데이",
       "title_original": "Wednesday",
       "poster": "/oCpvKD0yuRV9OAZ8xklRy9HWc6l.jpg",
-      "backdrop": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+      "backdrop": "/AeJgnEXaFcsGzU5Y4Nrq9WggAQ5.jpg",
       "year": "2022",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 84,
-      "votes": 10116,
+      "votes": 10119,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -449,6 +868,21 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "SF/판타지",
+        "스릴러",
+        "코미디"
+      ],
+      "cast": [
+        "제나 오르테가",
+        "스티브 부세미",
+        "엠마 마이어스",
+        "Hunter Doohan",
+        "Joy Sunday",
+        "Moosa Mostafa",
+        "Georgie Farmer",
+        "Isaac Ordonez"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -461,9 +895,9 @@
       "backdrop": "/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
       "year": "2005",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 84,
-      "votes": 4830,
+      "votes": 4832,
       "ott": [
         "Amazon Prime Video",
         "Watcha"
@@ -471,6 +905,15 @@
       "tags": [
         "무조건 추천",
         "접근성 좋음"
+      ],
+      "genres": [
+        "코미디"
+      ],
+      "cast": [
+        "레인 윌슨",
+        "존 크래신스키",
+        "제나 피셔",
+        "에드 헬름스"
       ],
       "reason": "평점과 접근성이 모두 검증된 작품"
     },
@@ -483,7 +926,7 @@
       "backdrop": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
       "year": "2020",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 24,
       "score": 84,
       "votes": 4047,
       "ott": [
@@ -497,6 +940,12 @@
         "무조건 추천",
         "접근성 좋음"
       ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [],
       "reason": "평점과 접근성이 모두 검증된 작품"
     },
     {
@@ -508,15 +957,25 @@
       "backdrop": "/l8v3gJDlASN0lNn51gR8zQJsu5O.jpg",
       "year": "2013",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 84,
-      "votes": 10663,
+      "votes": 10665,
       "ott": [
         "Netflix"
       ],
       "tags": [
         "무조건 추천",
         "대중픽"
+      ],
+      "genres": [
+        "드라마",
+        "범죄"
+      ],
+      "cast": [
+        "킬리언 머피",
+        "폴 앤더슨",
+        "Sophie Rundle",
+        "Natasha O'Keeffe"
       ],
       "reason": "평점과 접근성이 모두 검증된 작품"
     },
@@ -528,15 +987,29 @@
       "poster": "/fxBxoXFAYKWde6lKzXxSusn18Av.jpg",
       "backdrop": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
       "year": "1999",
-      "runtime": null,
+      "runtime": 136,
       "episode_runtime": null,
       "score": 83,
-      "votes": 27090,
+      "votes": 27091,
       "ott": [
         "Watcha"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "키아누 리브스",
+        "로렌스 피시번",
+        "캐리 앤 모스",
+        "휴고 위빙",
+        "Gloria Foster",
+        "조 판톨리아노",
+        "Marcus Chong",
+        "Julian Arahanga"
       ],
       "reason": "대부분 만족하는 평점"
     },
@@ -548,15 +1021,29 @@
       "poster": "/kmP6viwzcEkZeoi1LaVcQemcvZh.jpg",
       "backdrop": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
       "year": "2018",
-      "runtime": null,
+      "runtime": 149,
       "episode_runtime": null,
       "score": 83,
-      "votes": 31213,
+      "votes": 31215,
       "ott": [
         "Disney Plus"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "로버트 다우니 주니어",
+        "크리스 에반스",
+        "크리스 헴스워스",
+        "조쉬 브롤린",
+        "마크 러팔로",
+        "스칼렛 요한슨",
+        "돈 치들",
+        "베네딕트 컴버배치"
       ],
       "reason": "대부분 만족하는 평점"
     },
@@ -569,9 +1056,9 @@
       "backdrop": "/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
       "year": "2009",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 43,
       "score": 83,
-      "votes": 9391,
+      "votes": 9394,
       "ott": [
         "Netflix",
         "Amazon Prime Video",
@@ -580,6 +1067,159 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "SF/판타지"
+      ],
+      "cast": [
+        "Paul Wesley",
+        "이언 서머홀더",
+        "캣 그레이엄",
+        "Candice King",
+        "Zach Roerig",
+        "Michael Malarkey",
+        "Matthew Davis"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 46298,
+      "type": "tv",
+      "title": "헌터x헌터",
+      "title_original": "HUNTER×HUNTER",
+      "poster": "/8YKlXBit3PlVTXf9A1ohccCf9lQ.jpg",
+      "backdrop": "/6U0e6OHklJAcMAuIoGXjTBS5zsI.jpg",
+      "year": "2011",
+      "runtime": null,
+      "episode_runtime": 24,
+      "score": 83,
+      "votes": 1985,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "무조건 추천",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "한 메구미",
+        "이세 마리야",
+        "二又一成",
+        "사와시로 미유키",
+        "후지와라 케이지"
+      ],
+      "reason": "평점과 접근성이 모두 검증된 작품"
+    },
+    {
+      "id": 694,
+      "type": "movie",
+      "title": "샤이닝",
+      "title_original": "The Shining",
+      "poster": "/aaItbIXZlC2C7Arg3PI0IglKi0.jpg",
+      "backdrop": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+      "year": "2023",
+      "runtime": 144,
+      "episode_runtime": null,
+      "score": 82,
+      "votes": 18397,
+      "ott": [
+        "wavve"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "공포",
+        "스릴러"
+      ],
+      "cast": [
+        "잭 니콜슨",
+        "셜리 듀발",
+        "대니 로이드",
+        "스캣맨 크로더스",
+        "베리 넬슨",
+        "필립 스톤",
+        "조 터켈",
+        "앤 잭슨"
+      ],
+      "reason": "대부분 만족하는 평점"
+    },
+    {
+      "id": 68718,
+      "type": "movie",
+      "title": "장고: 분노의 추적자",
+      "title_original": "Django Unchained",
+      "poster": "/AoH4YLDdxAHraeT336sc9nOIaX0.jpg",
+      "backdrop": "/by7k8LWzRO4zVhwL1TunlwFdbx9.jpg",
+      "year": "2013",
+      "runtime": 165,
+      "episode_runtime": null,
+      "score": 82,
+      "votes": 27328,
+      "ott": [
+        "Watcha"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "cast": [
+        "제이미 폭스",
+        "크리스토프 발츠",
+        "레오나르도 디카프리오",
+        "케리 워싱턴",
+        "사무엘 L. 잭슨",
+        "월튼 고긴스",
+        "데니스 크리스토퍼",
+        "James Remar"
+      ],
+      "reason": "대부분 만족하는 평점"
+    },
+    {
+      "id": 670,
+      "type": "movie",
+      "title": "올드보이",
+      "title_original": "올드보이",
+      "poster": "/xpa9ybm6tYGna5LseqSXvKpSSJn.jpg",
+      "backdrop": "/sdwjQEM869JFwMytTmvr6ggvaUl.jpg",
+      "year": "2003",
+      "runtime": 120,
+      "episode_runtime": null,
+      "score": 82,
+      "votes": 9392,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads",
+        "TVING"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "스릴러",
+        "액션"
+      ],
+      "cast": [
+        "최민식",
+        "유지태",
+        "강혜정",
+        "김병옥",
+        "지대한",
+        "오달수",
+        "이승신",
+        "윤진서"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -592,7 +1232,7 @@
       "backdrop": "/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
       "year": "2018",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 82,
       "votes": 2795,
       "ott": [
@@ -606,6 +1246,19 @@
         "무조건 추천",
         "접근성 좋음"
       ],
+      "genres": [
+        "범죄",
+        "드라마",
+        "코미디"
+      ],
+      "cast": [
+        "네이선 필리언",
+        "Melissa O'Neil",
+        "Eric Winter",
+        "Alyssa Diaz",
+        "Mekia Cox",
+        "Richard T. Jones"
+      ],
       "reason": "평점과 접근성이 모두 검증된 작품"
     },
     {
@@ -617,9 +1270,9 @@
       "backdrop": "/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
       "year": "2015",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 24,
       "score": 82,
-      "votes": 3930,
+      "votes": 3931,
       "ott": [
         "Netflix",
         "Watcha",
@@ -629,6 +1282,15 @@
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "코미디",
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "후루카와 마코토"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -641,7 +1303,7 @@
       "backdrop": "/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
       "year": "2010",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 82,
       "votes": 17365,
       "ott": [
@@ -652,6 +1314,21 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "드라마",
+        "SF/판타지"
+      ],
+      "cast": [
+        "로렌 코핸",
+        "노먼 리더스",
+        "제프리 딘 모건",
+        "Melissa McBride",
+        "Christian Serratos",
+        "Seth Gilliam",
+        "로스 마퀀드",
+        "Josh McDermitt"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -664,9 +1341,9 @@
       "backdrop": "/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
       "year": "2022",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 24,
       "score": 82,
-      "votes": 2132,
+      "votes": 2133,
       "ott": [
         "Netflix",
         "Disney Plus",
@@ -678,6 +1355,17 @@
       "tags": [
         "무조건 추천",
         "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "코미디",
+        "액션"
+      ],
+      "cast": [
+        "에구치 타쿠야",
+        "타네자키 아츠미",
+        "하야미 사오리",
+        "마쓰다 겐이치로"
       ],
       "reason": "평점과 접근성이 모두 검증된 작품"
     },
@@ -690,7 +1378,7 @@
       "backdrop": "/xuJ0F9RfKvVSJNDg2usurQ9WvY5.jpg",
       "year": "2002",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 24,
       "score": 82,
       "votes": 5829,
       "ott": [
@@ -700,6 +1388,21 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "타케우치 쥰코",
+        "스기야마 노리아키",
+        "나카무라 치에",
+        "이노우에 카즈히코",
+        "시바타 히데카츠",
+        "토치카 코이치",
+        "江原正士",
+        "増川洋一"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -712,9 +1415,9 @@
       "backdrop": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
       "year": "1989",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 26,
       "score": 82,
-      "votes": 4704,
+      "votes": 4705,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads",
@@ -723,7 +1426,90 @@
       "tags": [
         "접근성 좋음"
       ],
+      "genres": [
+        "애니메이션",
+        "SF/판타지",
+        "액션"
+      ],
+      "cast": [
+        "노자와 마사코",
+        "호리카와 료",
+        "후루카와 토시오",
+        "타나카 마유미",
+        "龍田直樹",
+        "나카오 류세이",
+        "八奈見乗児",
+        "渡辺菜生子"
+      ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 42009,
+      "type": "tv",
+      "title": "블랙 미러",
+      "title_original": "Black Mirror",
+      "poster": "/ej7Br2B8dkZZBGa6vDE8HqATgU7.jpg",
+      "backdrop": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+      "year": "2011",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 82,
+      "votes": 5842,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "SF/판타지",
+        "드라마",
+        "스릴러"
+      ],
+      "cast": [],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 127532,
+      "type": "tv",
+      "title": "나 혼자만 레벨업",
+      "title_original": "俺だけレベルアップな件",
+      "poster": "/5gR5oCQufzZ6tPcFoHb61ckiwiP.jpg",
+      "backdrop": "/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+      "year": "2024",
+      "runtime": null,
+      "episode_runtime": 24,
+      "score": 82,
+      "votes": 1460,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": [
+        "무조건 추천",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "반 타이토",
+        "나카무라 겐타",
+        "미카와 하루나",
+        "우에다 레이나",
+        "히라카와 다이스케",
+        "토치 히로키",
+        "긴가 반죠",
+        "후루카와 마코토"
+      ],
+      "reason": "평점과 접근성이 모두 검증된 작품"
     },
     {
       "id": 10681,
@@ -733,15 +1519,30 @@
       "poster": "/skTzymk67FfQSfGvwp4JSAqje4Z.jpg",
       "backdrop": "/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
       "year": "2008",
-      "runtime": null,
+      "runtime": 98,
       "episode_runtime": null,
       "score": 81,
-      "votes": 19709,
+      "votes": 19710,
       "ott": [
         "Disney Plus"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "애니메이션",
+        "가족/키즈",
+        "SF/판타지"
+      ],
+      "cast": [
+        "Ben Burtt",
+        "Elissa Knight",
+        "Jeff Garlin",
+        "Fred Willard",
+        "존 라젠버그",
+        "Kathy Najimy",
+        "시고니 위버",
+        "Lori Alan"
       ],
       "reason": "대부분 만족하는 평점"
     },
@@ -753,15 +1554,29 @@
       "poster": "/ehUeFvQeo8Vr2aDIKLsLbC8okcw.jpg",
       "backdrop": "/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg",
       "year": "2011",
-      "runtime": null,
+      "runtime": 130,
       "episode_runtime": null,
       "score": 81,
-      "votes": 21486,
+      "votes": 21487,
       "ott": [
         "wavve"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "다니엘 래드클리프",
+        "엠마 왓슨",
+        "루퍼트 그린트",
+        "랄프 파인즈",
+        "앨런 릭먼",
+        "마이클 갬본",
+        "워윅 데이비스",
+        "헬레나 본햄 카터"
       ],
       "reason": "대부분 만족하는 평점"
     },
@@ -774,9 +1589,9 @@
       "backdrop": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
       "year": "2006",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 60,
       "score": 81,
-      "votes": 5109,
+      "votes": 5111,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -784,6 +1599,21 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "범죄",
+        "드라마",
+        "스릴러"
+      ],
+      "cast": [
+        "마이클 C. 홀",
+        "Jennifer Carpenter",
+        "Geoff Pierson",
+        "David Zayas",
+        "James Remar",
+        "Aimee Garcia",
+        "Desmond Harrington",
+        "C. S. Lee"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -796,9 +1626,9 @@
       "backdrop": "/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
       "year": "2011",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 42,
       "score": 81,
-      "votes": 5461,
+      "votes": 5462,
       "ott": [
         "Netflix",
         "Amazon Prime Video",
@@ -807,6 +1637,128 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "cast": [
+        "가브리엘 막트",
+        "릭 호프먼",
+        "사라 라퍼티",
+        "어맨다 셜",
+        "Dulé Hill",
+        "캐서린 헤이글"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 114410,
+      "type": "tv",
+      "title": "체인소 맨",
+      "title_original": "チェンソーマン",
+      "poster": "/eblIShqBgVPmRt86f4e02ouDNhE.jpg",
+      "backdrop": "/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
+      "year": "2022",
+      "runtime": null,
+      "episode_runtime": 24,
+      "score": 81,
+      "votes": 1977,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": [
+        "무조건 추천",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "SF/판타지",
+        "코미디"
+      ],
+      "cast": [
+        "토야 키쿠노스케",
+        "쿠스노키 토모리",
+        "사카타 쇼고",
+        "파이루즈 아이"
+      ],
+      "reason": "평점과 접근성이 모두 검증된 작품"
+    },
+    {
+      "id": 85077,
+      "type": "tv",
+      "title": "더 초즌: 부름 받은 자",
+      "title_original": "The Chosen",
+      "poster": "/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+      "backdrop": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+      "year": "2019",
+      "runtime": null,
+      "episode_runtime": 60,
+      "score": 81,
+      "votes": 704,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "무조건 추천",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "가족/키즈",
+        "액션"
+      ],
+      "cast": [
+        "Jonathan Roumie",
+        "Shahar Isaac",
+        "Elizabeth Tabish",
+        "Paras Patel",
+        "Noah James",
+        "George H. Xanthis",
+        "Abe Bueno-Jallad",
+        "Joey Vahedi"
+      ],
+      "reason": "평점과 접근성이 모두 검증된 작품"
+    },
+    {
+      "id": 77169,
+      "type": "tv",
+      "title": "코브라 카이",
+      "title_original": "Cobra Kai",
+      "poster": "/smVIOAVCcoaBTx054SO9SiyDqep.jpg",
+      "backdrop": "/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+      "year": "2018",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 81,
+      "votes": 6769,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "드라마",
+        "코미디"
+      ],
+      "cast": [
+        "윌리엄 자브카",
+        "랄프 마치오",
+        "Courtney Henggeler",
+        "Xolo Mariduena",
+        "Tanner Buchanan",
+        "Mary Mouser",
+        "Peyton List",
+        "제이컵 버트런드"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -818,15 +1770,29 @@
       "poster": "/krgjV3rJtBcEpQehODKXNCt6uFL.jpg",
       "backdrop": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
       "year": "2012",
-      "runtime": null,
+      "runtime": 142,
       "episode_runtime": null,
       "score": 80,
-      "votes": 34443,
+      "votes": 34452,
       "ott": [
         "Disney Plus"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "SF/판타지",
+        "액션"
+      ],
+      "cast": [
+        "로버트 다우니 주니어",
+        "크리스 에반스",
+        "마크 러팔로",
+        "크리스 헴스워스",
+        "스칼렛 요한슨",
+        "제레미 레너",
+        "톰 히들스턴",
+        "클라크 그렉"
       ],
       "reason": "대부분 만족하는 평점"
     },
@@ -838,7 +1804,7 @@
       "poster": "/anwNl1xbzXoj5Ax1nVw3WoDzHlw.jpg",
       "backdrop": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
       "year": "2004",
-      "runtime": null,
+      "runtime": 136,
       "episode_runtime": null,
       "score": 80,
       "votes": 22617,
@@ -847,6 +1813,20 @@
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "다니엘 래드클리프",
+        "루퍼트 그린트",
+        "엠마 왓슨",
+        "로비 콜트레인",
+        "마이클 갬본",
+        "게리 올드만",
+        "데이비드 슐리스",
+        "티모시 스폴"
       ],
       "reason": "대부분 만족하는 평점"
     },
@@ -859,7 +1839,7 @@
       "backdrop": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
       "year": "2005",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 80,
       "votes": 10710,
       "ott": [
@@ -867,6 +1847,19 @@
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "cast": [
+        "엘렌 폼페오",
+        "챈드라 윌슨",
+        "James Pickens Jr.",
+        "Kevin McKidd",
+        "캐터리나 스코손",
+        "Camilla Luddington",
+        "Kim Raver",
+        "Jason George"
       ],
       "reason": "대부분 만족하는 평점"
     },
@@ -879,9 +1872,9 @@
       "backdrop": "/6pSkqecoNsxSA467Z28uhVDrjXo.jpg",
       "year": "2021",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 80,
-      "votes": 1778,
+      "votes": 1779,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -889,217 +1882,20 @@
       "tags": [
         "접근성 좋음"
       ],
-      "reason": "여러 OTT에서 바로 볼 수 있음"
-    },
-    {
-      "id": 93405,
-      "type": "tv",
-      "title": "오징어 게임",
-      "title_original": "오징어 게임",
-      "poster": "/yACIAqAkSLkX4coHafpyLWAtQjw.jpg",
-      "backdrop": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
-      "year": "2021",
-      "runtime": null,
-      "episode_runtime": null,
-      "score": 80,
-      "votes": 16960,
-      "ott": [
-        "Netflix",
-        "Netflix Standard with Ads"
+      "genres": [
+        "액션",
+        "애니메이션",
+        "SF/판타지"
       ],
-      "tags": [
-        "대중픽",
-        "접근성 좋음"
-      ],
-      "reason": "여러 OTT에서 바로 볼 수 있음"
-    },
-    {
-      "id": 1409,
-      "type": "tv",
-      "title": "썬즈 오브 아나키",
-      "title_original": "Sons of Anarchy",
-      "poster": "/jzsCDbn0UCod1SjtUaPNeBblved.jpg",
-      "backdrop": "/dk2AwvW3VyKHCWAdED0sJzD0NYQ.jpg",
-      "year": "2008",
-      "runtime": null,
-      "episode_runtime": null,
-      "score": 80,
-      "votes": 3121,
-      "ott": [
-        "Disney Plus"
-      ],
-      "tags": [],
-      "reason": "대부분 만족하는 평점"
-    },
-    {
-      "id": 30984,
-      "type": "tv",
-      "title": "블리치",
-      "title_original": "BLEACH",
-      "poster": "/2cT8jkEVsAL86CVKALR4pnaVLDb.jpg",
-      "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "year": "2004",
-      "runtime": null,
-      "episode_runtime": null,
-      "score": 80,
-      "votes": 2024,
-      "ott": [
-        "Netflix",
-        "Disney Plus",
-        "Netflix Standard with Ads",
-        "Crunchyroll",
-        "TVING"
-      ],
-      "tags": [
-        "접근성 좋음"
-      ],
-      "reason": "여러 OTT에서 바로 볼 수 있음"
-    },
-    {
-      "id": 546554,
-      "type": "movie",
-      "title": "나이브스 아웃",
-      "title_original": "Knives Out",
-      "poster": "/7brBiaaH1sToGV1YBi5EIUnyjo0.jpg",
-      "backdrop": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
-      "year": "2019",
-      "runtime": null,
-      "episode_runtime": null,
-      "score": 79,
-      "votes": 13328,
-      "ott": [
-        "Netflix",
-        "Watcha",
-        "FilmBox+",
-        "Netflix Standard with Ads",
-        "TVING"
-      ],
-      "tags": [
-        "대중픽",
-        "접근성 좋음"
-      ],
-      "reason": "여러 OTT에서 바로 볼 수 있음"
-    },
-    {
-      "id": 671,
-      "type": "movie",
-      "title": "해리 포터와 마법사의 돌",
-      "title_original": "Harry Potter and the Philosopher's Stone",
-      "poster": "/8YaP48tVfngbURGldWk1I5odsBK.jpg",
-      "backdrop": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
-      "year": "2001",
-      "runtime": null,
-      "episode_runtime": null,
-      "score": 79,
-      "votes": 28893,
-      "ott": [
-        "wavve"
-      ],
-      "tags": [
-        "대중픽"
-      ],
-      "reason": "취향 맞으면 꽤 만족도 높은 선택"
-    },
-    {
-      "id": 597,
-      "type": "movie",
-      "title": "타이타닉",
-      "title_original": "Titanic",
-      "poster": "/132KjhVrWUqKFVfMAKKNkherytA.jpg",
-      "backdrop": "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
-      "year": "1999",
-      "runtime": null,
-      "episode_runtime": null,
-      "score": 79,
-      "votes": 26535,
-      "ott": [
-        "Disney Plus"
-      ],
-      "tags": [
-        "대중픽"
-      ],
-      "reason": "취향 맞으면 꽤 만족도 높은 선택"
-    },
-    {
-      "id": 272,
-      "type": "movie",
-      "title": "배트맨 비긴즈",
-      "title_original": "Batman Begins",
-      "poster": "/sb3V2fPhNDRRUvHJW4pQaeHbDxm.jpg",
-      "backdrop": "/y9AuabF1SXnn3xZ0tAJLLhv33Uj.jpg",
-      "year": "2005",
-      "runtime": null,
-      "episode_runtime": null,
-      "score": 79,
-      "votes": 22026,
-      "ott": [
-        "wavve",
-        "Watcha"
-      ],
-      "tags": [
-        "대중픽",
-        "접근성 좋음"
-      ],
-      "reason": "여러 OTT에서 바로 볼 수 있음"
-    },
-    {
-      "id": 34307,
-      "type": "tv",
-      "title": "쉐임리스",
-      "title_original": "Shameless",
-      "poster": "/9ZTivNsXHQWVq578CIsvsM5zd08.jpg",
-      "backdrop": "/5s9XHTB9SLPdg3mNU6BlSLnZ9Qq.jpg",
-      "year": "2011",
-      "runtime": null,
-      "episode_runtime": null,
-      "score": 79,
-      "votes": 3128,
-      "ott": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ],
-      "tags": [
-        "접근성 좋음"
-      ],
-      "reason": "여러 OTT에서 바로 볼 수 있음"
-    },
-    {
-      "id": 4057,
-      "type": "tv",
-      "title": "크리미널 마인드",
-      "title_original": "Criminal Minds",
-      "poster": "/A5hvLZpYcpT2GFA3j8LtI6eINFr.jpg",
-      "backdrop": "/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
-      "year": "2005",
-      "runtime": null,
-      "episode_runtime": null,
-      "score": 79,
-      "votes": 3962,
-      "ott": [
-        "Disney Plus"
-      ],
-      "tags": [],
-      "reason": "취향 맞으면 꽤 만족도 높은 선택"
-    },
-    {
-      "id": 71912,
-      "type": "tv",
-      "title": "위쳐",
-      "title_original": "The Witcher",
-      "poster": "/5rPQiz9ql0KdlTr21WDcL85va3H.jpg",
-      "backdrop": "/foGkPxpw9h8zln81j63mix5B7m8.jpg",
-      "year": "2019",
-      "runtime": null,
-      "episode_runtime": null,
-      "score": 79,
-      "votes": 6424,
-      "ott": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ],
-      "tags": [
-        "대중픽",
-        "접근성 좋음"
+      "cast": [
+        "사와시로 미유키",
+        "쿠로사와 토모요",
+        "타카기 와타루",
+        "스와베 준이치",
+        "세키 토모카즈",
+        "사이토 소마",
+        "야마지 카즈히로",
+        "사쿠라이 타카히로"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -1112,14 +1908,675 @@
       "backdrop": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
       "year": "1993",
       "runtime": null,
-      "episode_runtime": null,
-      "score": 79,
+      "episode_runtime": [],
+      "score": 80,
       "votes": 3379,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "스릴러",
+        "SF/판타지",
+        "범죄"
+      ],
+      "cast": [
+        "데이비드 듀코브니",
+        "질리언 앤더슨",
+        "Mitch Pileggi",
+        "William B. Davis"
+      ],
+      "reason": "대부분 만족하는 평점"
+    },
+    {
+      "id": 93405,
+      "type": "tv",
+      "title": "오징어 게임",
+      "title_original": "오징어 게임",
+      "poster": "/yACIAqAkSLkX4coHafpyLWAtQjw.jpg",
+      "backdrop": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+      "year": "2021",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 80,
+      "votes": 16963,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "스릴러",
+        "드라마"
+      ],
+      "cast": [
+        "이정재",
+        "임시완",
+        "이진욱",
+        "위하준",
+        "조유리",
+        "이병헌",
+        "이성우",
+        "박규영"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 1409,
+      "type": "tv",
+      "title": "썬즈 오브 아나키",
+      "title_original": "Sons of Anarchy",
+      "poster": "/jzsCDbn0UCod1SjtUaPNeBblved.jpg",
+      "backdrop": "/dk2AwvW3VyKHCWAdED0sJzD0NYQ.jpg",
+      "year": "2008",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 80,
+      "votes": 3121,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [],
+      "genres": [
+        "범죄",
+        "드라마"
+      ],
+      "cast": [
+        "찰리 허냄",
+        "Katey Sagal",
+        "토미 플래너건",
+        "마크 분 주니어",
+        "Kim Coates",
+        "시오 로시",
+        "Dayton Callie",
+        "David Labrava"
+      ],
+      "reason": "대부분 만족하는 평점"
+    },
+    {
+      "id": 30984,
+      "type": "tv",
+      "title": "블리치",
+      "title_original": "BLEACH",
+      "poster": "/2cT8jkEVsAL86CVKALR4pnaVLDb.jpg",
+      "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "year": "2004",
+      "runtime": null,
+      "episode_runtime": 24,
+      "score": 80,
+      "votes": 2024,
+      "ott": [
+        "Netflix",
+        "Disney Plus",
+        "Netflix Standard with Ads",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "애니메이션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "모리타 마사카즈",
+        "오리카사 후미코",
+        "야스모토 히로키",
+        "마츠오카 유키",
+        "스기야마 노리아키"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 76669,
+      "type": "tv",
+      "title": "엘리트들",
+      "title_original": "Élite",
+      "poster": "/c07WqB99Igco0rua794q9k9QJYm.jpg",
+      "backdrop": "/uU6YW3N11qECNfz18LNGAGg3Uir.jpg",
+      "year": "2018",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 80,
+      "votes": 9296,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "범죄",
+        "스릴러",
+        "드라마"
+      ],
+      "cast": [
+        "오마르 아유소",
+        "발렌티나 세네레",
+        "안드레 라몰리아",
+        "Carmen Arrufat",
+        "Ander Puig",
+        "Nadia Al Saidi",
+        "페르난도 린데스",
+        "Mirela Balić"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 48891,
+      "type": "tv",
+      "title": "브루클린 나인-나인",
+      "title_original": "Brooklyn Nine-Nine",
+      "poster": "/A3SymGlOHefSKbz1bCOz56moupS.jpg",
+      "backdrop": "/wyspZaGs7CXceV3Ct7NJhcKNDkn.jpg",
+      "year": "2013",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 80,
+      "votes": 3757,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "코미디",
+        "범죄"
+      ],
+      "cast": [
+        "앤디 샘버그",
+        "Melissa Fumero",
+        "테리 크루즈",
+        "조 로 트루글리오",
+        "스테파니 베아트리스",
+        "앤드리 브라우어",
+        "Dirk Blocker",
+        "Joel McKinnon Miller"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 94664,
+      "type": "tv",
+      "title": "무직전생 ~이세계에 갔으면 최선을 다한다~",
+      "title_original": "無職転生 ～異世界行ったら本気だす～",
+      "poster": "/bKGRbhv6ivalbt9sMniyxLVGnUZ.jpg",
+      "backdrop": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "year": "2021",
+      "runtime": null,
+      "episode_runtime": 24,
+      "score": 80,
+      "votes": 1374,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": [
+        "무조건 추천",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "애니메이션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "우치야마 유미",
+        "스기타 토모카즈",
+        "코하라 코노미",
+        "카쿠마 아이",
+        "카야노 아이"
+      ],
+      "reason": "평점과 접근성이 모두 검증된 작품"
+    },
+    {
+      "id": 655,
+      "type": "tv",
+      "title": "스타 트렉: 넥스트 제너레이션",
+      "title_original": "Star Trek: The Next Generation",
+      "poster": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+      "backdrop": "/qmliLoo6GVheM2FihatlAXxCKyF.jpg",
+      "year": "1987",
+      "runtime": null,
+      "episode_runtime": 45,
+      "score": 80,
+      "votes": 1653,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "SF/판타지",
+        "액션",
+        "드라마",
+        "스릴러"
+      ],
+      "cast": [
+        "패트릭 스튜어트",
+        "조나단 플레이크",
+        "브렌트 스피너",
+        "LeVar Burton",
+        "Michael Dorn",
+        "Marina Sirtis",
+        "Gates McFadden"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 219246,
+      "type": "tv",
+      "title": "폭싹 속았수다",
+      "title_original": "폭싹 속았수다",
+      "poster": "/koMkV9qm0PEZHDmX5dRpBpMH1FY.jpg",
+      "backdrop": "/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
+      "year": "2025",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 80,
+      "votes": 431,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "무조건 추천",
+        "숨은 명작",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "cast": [
+        "IU",
+        "박보검",
+        "문소리",
+        "박해준",
+        "염혜란",
+        "김태연",
+        "백지원",
+        "최대훈"
+      ],
+      "reason": "평점과 접근성이 모두 검증된 작품"
+    },
+    {
+      "id": 209867,
+      "type": "tv",
+      "title": "장송의 프리렌",
+      "title_original": "葬送のフリーレン",
+      "poster": "/mnj30hYDVAbL9BOA0f4HrKubAGF.jpg",
+      "backdrop": "/emGCHnRPru5LLWcKbSFzUEUisac.jpg",
+      "year": "2023",
+      "runtime": null,
+      "episode_runtime": 25,
+      "score": 80,
+      "votes": 584,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": [
+        "무조건 추천",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "드라마",
+        "SF/판타지"
+      ],
+      "cast": [
+        "타네자키 아츠미",
+        "이치노세 카나",
+        "코바야시 치아키",
+        "오카모토 노부히코",
+        "토치 히로키",
+        "우에다 요지"
+      ],
+      "reason": "평점과 접근성이 모두 검증된 작품"
+    },
+    {
+      "id": 546554,
+      "type": "movie",
+      "title": "나이브스 아웃",
+      "title_original": "Knives Out",
+      "poster": "/7brBiaaH1sToGV1YBi5EIUnyjo0.jpg",
+      "backdrop": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+      "year": "2019",
+      "runtime": 131,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 13332,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "FilmBox+",
+        "Netflix Standard with Ads",
+        "TVING"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "코미디",
+        "범죄",
+        "스릴러"
+      ],
+      "cast": [
+        "다니엘 크레이그",
+        "크리스 에반스",
+        "아나 데 아르마스",
+        "제이미 리 커티스",
+        "마이클 섀넌",
+        "돈 존슨",
+        "토니 콜렛",
+        "라키스 스탠필드"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 671,
+      "type": "movie",
+      "title": "해리 포터와 마법사의 돌",
+      "title_original": "Harry Potter and the Philosopher's Stone",
+      "poster": "/8YaP48tVfngbURGldWk1I5odsBK.jpg",
+      "backdrop": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+      "year": "2001",
+      "runtime": 152,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 28893,
+      "ott": [
+        "wavve"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "다니엘 래드클리프",
+        "루퍼트 그린트",
+        "엠마 왓슨",
+        "리처드 해리스",
+        "톰 펠튼",
+        "앨런 릭먼",
+        "로비 콜트레인",
+        "매기 스미스"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 597,
+      "type": "movie",
+      "title": "타이타닉",
+      "title_original": "Titanic",
+      "poster": "/132KjhVrWUqKFVfMAKKNkherytA.jpg",
+      "backdrop": "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+      "year": "1999",
+      "runtime": 194,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 26537,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "드라마",
+        "로맨스"
+      ],
+      "cast": [
+        "레오나르도 디카프리오",
+        "케이트 윈슬렛",
+        "빌리 제인",
+        "캐시 베이츠",
+        "프랜시스 피셔",
+        "글로리아 스튜어트",
+        "빌 팩스턴",
+        "버나드 힐"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 272,
+      "type": "movie",
+      "title": "배트맨 비긴즈",
+      "title_original": "Batman Begins",
+      "poster": "/sb3V2fPhNDRRUvHJW4pQaeHbDxm.jpg",
+      "backdrop": "/y9AuabF1SXnn3xZ0tAJLLhv33Uj.jpg",
+      "year": "2005",
+      "runtime": 140,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 22027,
+      "ott": [
+        "wavve",
+        "Watcha"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "범죄",
+        "액션"
+      ],
+      "cast": [
+        "크리스찬 베일",
+        "마이클 케인",
+        "리암 니슨",
+        "케이티 홈즈",
+        "게리 올드만",
+        "킬리언 머피",
+        "톰 윌킨슨",
+        "루트거 하우어"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 14160,
+      "type": "movie",
+      "title": "업",
+      "title_original": "Up",
+      "poster": "/lL2WzkjLZP0RkPgUhybBjb9x9SL.jpg",
+      "backdrop": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+      "year": "2009",
+      "runtime": 96,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 21134,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "애니메이션",
+        "코미디",
+        "가족/키즈",
+        "액션"
+      ],
+      "cast": [
+        "에드워드 애스너",
+        "크리스토퍼 플러머",
+        "Jordan Nagai",
+        "밥 피터슨",
+        "델로이 린도",
+        "Jerome Ranft",
+        "존 라젠버그",
+        "David Kaye"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 808,
+      "type": "movie",
+      "title": "슈렉",
+      "title_original": "Shrek",
+      "poster": "/hABnmgdAU3u6Nu61b9GUGaOseVl.jpg",
+      "backdrop": "/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
+      "year": "2001",
+      "runtime": 90,
+      "episode_runtime": null,
+      "score": 79,
+      "votes": 18176,
+      "ott": [
+        "Netflix",
+        "Amazon Prime Video",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "코미디",
+        "SF/판타지",
+        "액션",
+        "가족/키즈"
+      ],
+      "cast": [
+        "마이크 마이어스",
+        "에디 머피",
+        "카메론 디아즈",
+        "존 리스고",
+        "뱅상 카셀",
+        "Peter Dennis",
+        "Clive Pearse",
+        "짐 커밍스"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 34307,
+      "type": "tv",
+      "title": "쉐임리스",
+      "title_original": "Shameless",
+      "poster": "/9ZTivNsXHQWVq578CIsvsM5zd08.jpg",
+      "backdrop": "/5s9XHTB9SLPdg3mNU6BlSLnZ9Qq.jpg",
+      "year": "2011",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 79,
+      "votes": 3129,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "코미디"
+      ],
+      "cast": [
+        "윌리엄 H. 메이시",
+        "제레미 앨런 화이트",
+        "에단 컷코스키",
+        "Shanola Hampton",
+        "스티브 하우이",
+        "Emma Kenney",
+        "Christian Isaiah",
+        "캐머런 모너핸"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 4057,
+      "type": "tv",
+      "title": "크리미널 마인드",
+      "title_original": "Criminal Minds",
+      "poster": "/A5hvLZpYcpT2GFA3j8LtI6eINFr.jpg",
+      "backdrop": "/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
+      "year": "2005",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 79,
+      "votes": 3963,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [],
+      "genres": [
+        "범죄",
+        "드라마",
+        "스릴러"
+      ],
+      "cast": [
+        "조 맨테그나",
+        "Paget Brewster",
+        "Adam Rodriguez",
+        "Kirsten Vangsness",
+        "A. J. Cook",
+        "아이샤 타일러",
+        "Zach Gilford",
+        "Ryan-James Hatanaka"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 71912,
+      "type": "tv",
+      "title": "위쳐",
+      "title_original": "The Witcher",
+      "poster": "/5rPQiz9ql0KdlTr21WDcL85va3H.jpg",
+      "backdrop": "/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+      "year": "2019",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 79,
+      "votes": 6426,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "액션"
+      ],
+      "cast": [
+        "리암 헴스워스",
+        "애니아 찰로트라",
+        "프레이아 앨런",
+        "Joey Batey",
+        "Eamon Farren",
+        "Mimî M. Khayisa",
+        "Anna Shaffer",
+        "Mahesh Jadu"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
     },
     {
       "id": 1400,
@@ -1130,7 +2587,7 @@
       "backdrop": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
       "year": "1989",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 79,
       "votes": 2222,
       "ott": [
@@ -1139,6 +2596,15 @@
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "코미디"
+      ],
+      "cast": [
+        "제리 사인펠드",
+        "제이슨 알렉산더",
+        "Michael Richards",
+        "줄리아 루이스 드레이퍼스"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -1151,7 +2617,7 @@
       "backdrop": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
       "year": "2023",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 23,
       "score": 79,
       "votes": 478,
       "ott": [
@@ -1164,7 +2630,118 @@
         "숨은 명작",
         "접근성 좋음"
       ],
+      "genres": [
+        "애니메이션",
+        "드라마",
+        "스릴러"
+      ],
+      "cast": [
+        "유우키 아오이",
+        "오오츠카 타케오",
+        "코니시 카츠유키"
+      ],
       "reason": "평점과 접근성이 모두 검증된 작품"
+    },
+    {
+      "id": 615,
+      "type": "tv",
+      "title": "퓨쳐라마",
+      "title_original": "Futurama",
+      "poster": "/tJsAIv9xdefUUieS46zeFAlwU8O.jpg",
+      "backdrop": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "year": "1999",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 79,
+      "votes": 3565,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [],
+      "genres": [
+        "애니메이션",
+        "코미디",
+        "SF/판타지"
+      ],
+      "cast": [
+        "Billy West",
+        "Katey Sagal",
+        "존 디마지오",
+        "트레스 맥닐",
+        "모리스 라마슈",
+        "Lauren Tom",
+        "Phil LaMarr",
+        "David Herman"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 65494,
+      "type": "tv",
+      "title": "더 크라운",
+      "title_original": "The Crown",
+      "poster": "/5qCMNVE5iIGiGnmkNqJGYMdTcqE.jpg",
+      "backdrop": "/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
+      "year": "2016",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 79,
+      "votes": 2265,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads",
+        "TVING"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "cast": [
+        "이멜다 스턴튼",
+        "조너선 프라이스",
+        "레슬리 맨빌",
+        "도미닉 웨스트",
+        "Claudia Harrison",
+        "Marcia Warren"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 63333,
+      "type": "tv",
+      "title": "라스트 킹덤",
+      "title_original": "The Last Kingdom",
+      "poster": "/jfL57Q8IodvXwPVt009FolxuesE.jpg",
+      "backdrop": "/ifZYdmNuMWimFCUGGcYAs9bHNlv.jpg",
+      "year": "2015",
+      "runtime": null,
+      "episode_runtime": 60,
+      "score": 79,
+      "votes": 1886,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "드라마"
+      ],
+      "cast": [
+        "Alexander Dreymon",
+        "Emily Cox",
+        "Eliza Butterworth",
+        "Mark Rowley",
+        "Ruby Hartley",
+        "Cavan Clerkin",
+        "Arnas Fedaravičius",
+        "Harry Gilby"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
     },
     {
       "id": 803796,
@@ -1174,16 +2751,32 @@
       "poster": "/91sO99VNo1IxzI1NcOhPRaWBE5N.jpg",
       "backdrop": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
       "year": "2025",
-      "runtime": null,
+      "runtime": 96,
       "episode_runtime": null,
       "score": 78,
-      "votes": 2038,
+      "votes": 2042,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "SF/판타지",
+        "음악",
+        "코미디",
+        "애니메이션"
+      ],
+      "cast": [
+        "아덴 조",
+        "메이 홍",
+        "유지영",
+        "안효섭",
+        "김윤진",
+        "켄 정",
+        "이병헌",
+        "다니엘 대 킴"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -1195,7 +2788,7 @@
       "poster": "/uWPnKtu1eutmgBQ2hoWm0Xe8nfN.jpg",
       "backdrop": "/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg",
       "year": "2005",
-      "runtime": null,
+      "runtime": 157,
       "episode_runtime": null,
       "score": 78,
       "votes": 21654,
@@ -1204,6 +2797,20 @@
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "다니엘 래드클리프",
+        "루퍼트 그린트",
+        "엠마 왓슨",
+        "브렌던 글리슨",
+        "마이클 갬본",
+        "로버트 패틴슨",
+        "랄프 파인즈",
+        "로비 콜트레인"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1215,17 +2822,141 @@
       "poster": "/stbZZs3WMPr9rvAT92Qd8gXCUfx.jpg",
       "backdrop": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
       "year": "2012",
-      "runtime": null,
+      "runtime": 164,
       "episode_runtime": null,
       "score": 78,
-      "votes": 23770,
+      "votes": 23771,
       "ott": [
         "wavve"
       ],
       "tags": [
         "대중픽"
       ],
+      "genres": [
+        "액션",
+        "범죄",
+        "드라마",
+        "스릴러"
+      ],
+      "cast": [
+        "크리스찬 베일",
+        "게리 올드만",
+        "톰 하디",
+        "조셉 고든레빗",
+        "앤 해서웨이",
+        "마리옹 꼬띠아르",
+        "모건 프리먼",
+        "마이클 케인"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 12,
+      "type": "movie",
+      "title": "니모를 찾아서",
+      "title_original": "Finding Nemo",
+      "poster": "/9ViCYfZ0whpwtKbM2WJP5PfsG2x.jpg",
+      "backdrop": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+      "year": "2003",
+      "runtime": 100,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 20091,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "애니메이션",
+        "가족/키즈"
+      ],
+      "cast": [
+        "앨버트 브룩스",
+        "엘런 디제너러스",
+        "Alexander Gould",
+        "윌렘 대포",
+        "제프리 러쉬",
+        "브래드 개릿",
+        "앨리슨 제니",
+        "Austin Pendleton"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 679,
+      "type": "movie",
+      "title": "에이리언 2",
+      "title_original": "Aliens",
+      "poster": "/8J1SwqmsHRzZ5k8QVRibkzyc9jc.jpg",
+      "backdrop": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+      "year": "1986",
+      "runtime": 137,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 10466,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "스릴러",
+        "SF/판타지"
+      ],
+      "cast": [
+        "시고니 위버",
+        "Carrie Henn",
+        "마이클 빈",
+        "폴 라이저",
+        "랜스 헨릭슨",
+        "빌 팩스턴",
+        "William Hope",
+        "Jenette Goldstein"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 329865,
+      "type": "movie",
+      "title": "컨택트",
+      "title_original": "Arrival",
+      "poster": "/yHEMUTIYZFHN3jjkKmTFrvhj64a.jpg",
+      "backdrop": "/hNCqkXbWd40eftqSdjq8TmV7Mqr.jpg",
+      "year": "2017",
+      "runtime": 116,
+      "episode_runtime": null,
+      "score": 78,
+      "votes": 18783,
+      "ott": [
+        "Netflix",
+        "wavve",
+        "Watcha",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "SF/판타지",
+        "스릴러"
+      ],
+      "cast": [
+        "에이미 아담스",
+        "제레미 레너",
+        "포레스트 휘태커",
+        "마이클 스툴바그",
+        "Mark O'Brien",
+        "치 마",
+        "Abigail Pniowsky",
+        "Julia Scarlett Dan"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
     },
     {
       "id": 456,
@@ -1236,14 +2967,27 @@
       "backdrop": "/jvTeRgjFsp66xj8SWxhr7O2J4ud.jpg",
       "year": "1989",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 22,
       "score": 78,
-      "votes": 10485,
+      "votes": 10487,
       "ott": [
         "Disney Plus"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "가족/키즈",
+        "애니메이션",
+        "코미디"
+      ],
+      "cast": [
+        "댄 카스텔라네타",
+        "줄리 캐브너",
+        "낸시 카트라이트",
+        "야들리 스미스",
+        "행크 아자리아",
+        "해리 쉬어러"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1256,9 +3000,9 @@
       "backdrop": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
       "year": "2014",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 78,
-      "votes": 11442,
+      "votes": 11444,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -1266,6 +3010,19 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "SF/판타지"
+      ],
+      "cast": [
+        "그랜트 거스틴",
+        "Candice Patton",
+        "다니엘 파나베이커",
+        "Danielle Nicolet",
+        "Kayla Compton",
+        "Brandon McKnight",
+        "Jon Cor"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -1278,14 +3035,26 @@
       "backdrop": "/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
       "year": "2013",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 78,
-      "votes": 7401,
+      "votes": 7403,
       "ott": [
         "Netflix"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "드라마"
+      ],
+      "cast": [
+        "Alex Høgh Andersen",
+        "Jordan Patrick Smith",
+        "Marco Ilsø",
+        "Peter Franzén",
+        "Georgia Hirst",
+        "Данила Козловский"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1298,15 +3067,28 @@
       "backdrop": "/1vhKauCQAq32u53X8n9qI896e6.jpg",
       "year": "2010",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 53,
       "score": 78,
-      "votes": 2768,
+      "votes": 2769,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "cast": [
+        "리암 맥킨타이어",
+        "Manu Bennett",
+        "Dustin Clare",
+        "신시아 아다이-로빈슨",
+        "제이미 머리",
+        "Ellen Hollman",
+        "Luna Rioumina",
+        "Marisa Ramirez"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -1319,13 +3101,25 @@
       "backdrop": "/4AXxajuAz9tHAOe6h5zDg8z1X2s.jpg",
       "year": "2005",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 78,
       "votes": 3359,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "범죄",
+        "드라마"
+      ],
+      "cast": [
+        "에밀리 디샤넬",
+        "David Boreanaz",
+        "John Boyd",
+        "Michaela Conlin",
+        "Tamara Taylor",
+        "T.J. Thyne"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -1337,7 +3131,7 @@
       "backdrop": "/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
       "year": "2015",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 78,
       "votes": 4534,
       "ott": [
@@ -1348,6 +3142,18 @@
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "애니메이션",
+        "가족/키즈"
+      ],
+      "cast": [
+        "Anouck Hautbois",
+        "Benjamin Bollen",
+        "Antoine Tomé",
+        "Marie Nonnenmacher",
+        "Thierry Kazazian"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -1360,14 +3166,29 @@
       "backdrop": "/n3Brk7roueE9HOwVmYlJx5j462g.jpg",
       "year": "2005",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 78,
-      "votes": 5689,
+      "votes": 5690,
       "ott": [
         "Disney Plus"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "범죄",
+        "드라마"
+      ],
+      "cast": [
+        "웬트워스 밀러",
+        "도미닉 퍼셀",
+        "Sarah Wayne Callies",
+        "폴 아델스타인",
+        "록먼드 던바",
+        "로버트 네퍼",
+        "Amaury Nolasco",
+        "인바 라비"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1380,7 +3201,7 @@
       "backdrop": "/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
       "year": "2005",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 22,
       "score": 78,
       "votes": 5471,
       "ott": [
@@ -1388,6 +3209,17 @@
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "코미디"
+      ],
+      "cast": [
+        "Josh Radnor",
+        "닐 패트릭 해리스",
+        "제이슨 시걸",
+        "앨리슨 해니건",
+        "코비 스멀더스",
+        "크리스틴 밀리오티"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1400,15 +3232,25 @@
       "backdrop": "/gzOIymABxmetAECXtazEYCpMmfb.jpg",
       "year": "2018",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 78,
-      "votes": 3739,
+      "votes": 3740,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "범죄"
+      ],
+      "cast": [
+        "펜 배질리",
+        "Charlotte Ritchie",
+        "Griffin Matthews",
+        "안나 캠프",
+        "매들린 브루어"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -1421,7 +3263,7 @@
       "backdrop": "/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
       "year": "2011",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 78,
       "votes": 5895,
       "ott": [
@@ -1430,7 +3272,158 @@
       "tags": [
         "대중픽"
       ],
+      "genres": [
+        "드라마",
+        "스릴러",
+        "SF/판타지"
+      ],
+      "cast": [
+        "에마 로버츠",
+        "Matt Czuchry",
+        "킴 카다시안",
+        "Annabelle Dexter-Jones",
+        "MJ 로드리게즈",
+        "데니스 오헤어",
+        "카라 델레바인",
+        "Julie White"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 71728,
+      "type": "tv",
+      "title": "영 셸던",
+      "title_original": "Young Sheldon",
+      "poster": "/c9J6uYthPPYpBHjOVEEWg7MvMtY.jpg",
+      "backdrop": "/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
+      "year": "2017",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 78,
+      "votes": 2846,
+      "ott": [
+        "Netflix",
+        "Amazon Prime Video",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "코미디",
+        "가족/키즈",
+        "드라마"
+      ],
+      "cast": [
+        "이언 아미티지",
+        "Zoe Perry",
+        "Lance Barber",
+        "Montana Jordan",
+        "레이건 레보드",
+        "애니 포츠",
+        "Emily Osment",
+        "짐 파슨스"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 200709,
+      "type": "tv",
+      "title": "약한영웅",
+      "title_original": "약한영웅",
+      "poster": "/jXd83QZhBDAFno4OGqHcMMDs56i.jpg",
+      "backdrop": "/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
+      "year": "2022",
+      "runtime": null,
+      "episode_runtime": 41,
+      "score": 78,
+      "votes": 326,
+      "ott": [
+        "Netflix",
+        "wavve",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "무조건 추천",
+        "숨은 명작",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "드라마"
+      ],
+      "cast": [
+        "박지훈",
+        "려운",
+        "최현욱",
+        "홍경",
+        "최민영",
+        "유수빈",
+        "차우민",
+        "배나라"
+      ],
+      "reason": "평점과 접근성이 모두 검증된 작품"
+    },
+    {
+      "id": 91239,
+      "type": "tv",
+      "title": "브리저튼",
+      "title_original": "Bridgerton",
+      "poster": "/a80pxtZrNSyqrME9rmFC6sZevZ7.jpg",
+      "backdrop": "/m7FqiUOvsSk7Ulg2oRMfFGcLeT9.jpg",
+      "year": "2020",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 78,
+      "votes": 3056,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "cast": [
+        "루크 톰슨",
+        "하예린",
+        "루스 겜멜",
+        "니컬라 코클런",
+        "Pablo Diska"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 110316,
+      "type": "tv",
+      "title": "아리스 인 보더랜드",
+      "title_original": "今際の国のアリス",
+      "poster": "/u3GIRjeqIKEf6kqsrsA253ikYJs.jpg",
+      "backdrop": "/bKxiLRPVWe2nZXCzt6JPr5HNWYm.jpg",
+      "year": "2020",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 78,
+      "votes": 2548,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "스릴러",
+        "드라마",
+        "액션"
+      ],
+      "cast": [
+        "야마자키 켄토",
+        "츠치야 타오"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
     },
     {
       "id": 269149,
@@ -1440,15 +3433,31 @@
       "poster": "/fZcab1yiKXsjx3S8D4KRHZsnMGC.jpg",
       "backdrop": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
       "year": "2016",
-      "runtime": null,
+      "runtime": 108,
       "episode_runtime": null,
       "score": 77,
-      "votes": 17295,
+      "votes": 17299,
       "ott": [
         "Disney Plus"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "가족/키즈",
+        "코미디"
+      ],
+      "cast": [
+        "지니퍼 굿윈",
+        "제이슨 베이트먼",
+        "이드리스 엘바",
+        "제니 슬레이트",
+        "네이트 토런스",
+        "보니 헌트",
+        "돈 레이크",
+        "토미 총"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1460,15 +3469,29 @@
       "poster": "/m5lCha2XcbDowDoYHPc0DTNaCPU.jpg",
       "backdrop": "/7JNzw1tSZZEgsBw6lu0VfO2X2Ef.jpg",
       "year": "2009",
-      "runtime": null,
+      "runtime": 162,
       "episode_runtime": null,
       "score": 77,
-      "votes": 32914,
+      "votes": 32917,
       "ott": [
         "Disney Plus"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "샘 워싱턴",
+        "조 샐다나",
+        "시고니 위버",
+        "스티븐 랭",
+        "미셸 로드리게즈",
+        "조반니 리비시",
+        "조엘 무어",
+        "C. C. H. 파운더"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1480,15 +3503,29 @@
       "poster": "/yrGlb3HLtjGp39mv4MJ5UuIHcj4.jpg",
       "backdrop": "/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg",
       "year": "2009",
-      "runtime": null,
+      "runtime": 153,
       "episode_runtime": null,
       "score": 77,
-      "votes": 20307,
+      "votes": 20308,
       "ott": [
         "wavve"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "다니엘 래드클리프",
+        "루퍼트 그린트",
+        "엠마 왓슨",
+        "짐 브로드벤트",
+        "마이클 갬본",
+        "톰 펠튼",
+        "앨런 릭먼",
+        "보니 라이트"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1500,15 +3537,207 @@
       "poster": "/lOXvz8HrgOkp7AXGQp1APKeZqag.jpg",
       "backdrop": "/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
       "year": "2010",
-      "runtime": null,
+      "runtime": 146,
       "episode_runtime": null,
       "score": 77,
-      "votes": 19915,
+      "votes": 19917,
       "ott": [
         "wavve"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "다니엘 래드클리프",
+        "엠마 왓슨",
+        "루퍼트 그린트",
+        "토비 존스",
+        "헬레나 본햄 카터",
+        "앨런 릭먼",
+        "랄프 파인즈",
+        "빌 나이"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 562,
+      "type": "movie",
+      "title": "다이 하드",
+      "title_original": "Die Hard",
+      "poster": "/9MPaeRkwS12glOQ818SEtnMd3XA.jpg",
+      "backdrop": "/oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg",
+      "year": "1988",
+      "runtime": 131,
+      "episode_runtime": null,
+      "score": 77,
+      "votes": 11827,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "스릴러"
+      ],
+      "cast": [
+        "브루스 윌리스",
+        "앨런 릭먼",
+        "Александр Годунов",
+        "보니 베델리아",
+        "Reginald VelJohnson",
+        "Paul Gleason",
+        "De'voreaux White",
+        "William Atherton"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 672,
+      "type": "movie",
+      "title": "해리 포터와 비밀의 방",
+      "title_original": "Harry Potter and the Chamber of Secrets",
+      "poster": "/bo8FuQPWKLqbg3WgAXYISkwrbZ9.jpg",
+      "backdrop": "/7tbeoSTWW2cWPecjQo9fcdf0Hzv.jpg",
+      "year": "2002",
+      "runtime": 160,
+      "episode_runtime": null,
+      "score": 77,
+      "votes": 23046,
+      "ott": [
+        "wavve"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "다니엘 래드클리프",
+        "루퍼트 그린트",
+        "엠마 왓슨",
+        "케네스 브래너",
+        "토비 존스",
+        "로비 콜트레인",
+        "리처드 해리스",
+        "앨런 릭먼"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 578,
+      "type": "movie",
+      "title": "죠스",
+      "title_original": "Jaws",
+      "poster": "/hbTQy1uBV4xzqHDIbWsMnCcR7J0.jpg",
+      "backdrop": "/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
+      "year": "1978",
+      "runtime": 124,
+      "episode_runtime": null,
+      "score": 77,
+      "votes": 11176,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "공포",
+        "스릴러",
+        "액션"
+      ],
+      "cast": [
+        "로이 슈나이더",
+        "Robert Shaw",
+        "리처드 드라이퍼스",
+        "Lorraine Gary",
+        "Murray Hamilton",
+        "칼 고티렙",
+        "Jeffrey Kramer",
+        "Susan Backlinie"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 335984,
+      "type": "movie",
+      "title": "블레이드 러너 2049",
+      "title_original": "Blade Runner 2049",
+      "poster": "/fJZmCJpLeBFKktLFEIKPEhllWlU.jpg",
+      "backdrop": "/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
+      "year": "2017",
+      "runtime": 164,
+      "episode_runtime": null,
+      "score": 77,
+      "votes": 14590,
+      "ott": [
+        "wavve",
+        "Watcha"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "SF/판타지",
+        "드라마"
+      ],
+      "cast": [
+        "라이언 고슬링",
+        "해리슨 포드",
+        "아나 데 아르마스",
+        "데이브 바티스타",
+        "로빈 라이트",
+        "실비아 획스",
+        "맥켄지 데이비스",
+        "자레드 레토"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 177572,
+      "type": "movie",
+      "title": "빅 히어로",
+      "title_original": "Big Hero 6",
+      "poster": "/gLabmTVZpNOGa8LEiMvTi9hJPDe.jpg",
+      "backdrop": "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+      "year": "2015",
+      "runtime": 102,
+      "episode_runtime": null,
+      "score": 77,
+      "votes": 16211,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "가족/키즈",
+        "애니메이션",
+        "코미디"
+      ],
+      "cast": [
+        "스콧 애드싯",
+        "Ryan Potter",
+        "다니엘 헤니",
+        "T.J. 밀러",
+        "제이미 정",
+        "데이먼 웨이언스 주니어",
+        "Genesis Rodriguez",
+        "제임스 크롬웰"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1521,7 +3750,7 @@
       "backdrop": "/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
       "year": "2017",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 77,
       "votes": 1519,
       "ott": [
@@ -1531,29 +3760,106 @@
       "tags": [
         "접근성 좋음"
       ],
+      "genres": [
+        "범죄",
+        "액션",
+        "드라마"
+      ],
+      "cast": [
+        "셰마 무어",
+        "Jay Harrington",
+        "David Lim",
+        "Patrick St. Esprit",
+        "Anna Enger Ritch",
+        "Niko Pepaj",
+        "Annie Ilonzeh"
+      ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
     {
-      "id": 71728,
+      "id": 75219,
       "type": "tv",
-      "title": "영 셸던",
-      "title_original": "Young Sheldon",
-      "poster": "/c9J6uYthPPYpBHjOVEEWg7MvMtY.jpg",
-      "backdrop": "/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
-      "year": "2017",
+      "title": "9-1-1",
+      "title_original": "9-1-1",
+      "poster": "/a7VwJMCs4bUm5NxjsFgoPs1ihnJ.jpg",
+      "backdrop": "/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
+      "year": "2018",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 77,
-      "votes": 2845,
+      "votes": 2690,
       "ott": [
-        "Netflix",
-        "Amazon Prime Video",
-        "Netflix Standard with Ads"
+        "Disney Plus"
       ],
-      "tags": [
-        "접근성 좋음"
+      "tags": [],
+      "genres": [
+        "드라마",
+        "범죄",
+        "액션"
       ],
-      "reason": "여러 OTT에서 바로 볼 수 있음"
+      "cast": [
+        "안젤라 바셋",
+        "제니퍼 러브 휴잇",
+        "Oliver Stark",
+        "Aisha Hinds",
+        "케네스 최",
+        "Ryan Guzman",
+        "Corinne Massiah",
+        "Elijah M. Cooper"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 91363,
+      "type": "tv",
+      "title": "왓 이프...?",
+      "title_original": "What If...?",
+      "poster": "/lpVufGfzucgDObb0kCMpA1dyOkE.jpg",
+      "backdrop": "/jnzoh5qoxRLFRIQAxnl6D3RStPC.jpg",
+      "year": "2021",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 77,
+      "votes": 4501,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "제프리 라이트"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 83867,
+      "type": "tv",
+      "title": "스타워즈: 안도르",
+      "title_original": "Andor",
+      "poster": "/qHMvk2BhwDKAyXwRSqTuAnURoS5.jpg",
+      "backdrop": "/kCGwvjpqM1owt9kI4pkYPJWJLvc.jpg",
+      "year": "2022",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 77,
+      "votes": 1778,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [],
+      "genres": [
+        "SF/판타지",
+        "액션",
+        "드라마"
+      ],
+      "cast": [
+        "디에고 루나"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
       "id": 675,
@@ -1563,7 +3869,7 @@
       "poster": "/1ItejykqHTbFWbZXdzqlvqriv7K.jpg",
       "backdrop": "/jLbpgkxA5PSgzmcszT8yCOyPkgf.jpg",
       "year": "2007",
-      "runtime": null,
+      "runtime": 137,
       "episode_runtime": null,
       "score": 76,
       "votes": 20344,
@@ -1572,6 +3878,20 @@
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "다니엘 래드클리프",
+        "루퍼트 그린트",
+        "엠마 왓슨",
+        "이멜다 스턴튼",
+        "헬레나 본햄 카터",
+        "로비 콜트레인",
+        "게리 올드만",
+        "랄프 파인즈"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1583,14 +3903,120 @@
       "poster": "/8ntMUYy0b0NIGWSWvMr07ui7CCJ.jpg",
       "backdrop": "/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
       "year": "2025",
-      "runtime": null,
+      "runtime": 85,
       "episode_runtime": null,
       "score": 76,
-      "votes": 2485,
+      "votes": 2488,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "SF/판타지",
+        "가족/키즈"
+      ],
+      "cast": [],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 76341,
+      "type": "movie",
+      "title": "매드맥스: 분노의 도로",
+      "title_original": "Mad Max: Fury Road",
+      "poster": "/cadVm6gKYYukmPysHGCwrawUHHa.jpg",
+      "backdrop": "/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
+      "year": "2015",
+      "runtime": 120,
+      "episode_runtime": null,
+      "score": 76,
+      "votes": 23572,
+      "ott": [
+        "wavve"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "톰 하디",
+        "샤를리즈 테론",
+        "니콜라스 홀트",
+        "휴 키스 -번",
+        "조쉬 헬먼",
+        "네이선 존스",
+        "조이 크래비츠",
+        "로지 헌팅턴 휘틀리"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 283995,
+      "type": "movie",
+      "title": "가디언즈 오브 갤럭시 Vol. 2",
+      "title_original": "Guardians of the Galaxy Vol. 2",
+      "poster": "/uDuwGhQgffd5GQ695oUfy5oZGqP.jpg",
+      "backdrop": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+      "year": "2017",
+      "runtime": 136,
+      "episode_runtime": null,
+      "score": 76,
+      "votes": 22445,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "SF/판타지",
+        "액션"
+      ],
+      "cast": [
+        "크리스 프랫",
+        "조 샐다나",
+        "데이브 바티스타",
+        "빈 디젤",
+        "브래들리 쿠퍼",
+        "커트 러셀",
+        "마이클 루커",
+        "카렌 길런"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 2734,
+      "type": "tv",
+      "title": "로 앤 오더: 성범죄전담반",
+      "title_original": "Law & Order: Special Victims Unit",
+      "poster": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+      "backdrop": "/2wgk47yrb2WnXAdSBLFX9EiU882.jpg",
+      "year": "1999",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 76,
+      "votes": 4077,
+      "ott": [
+        "wavve"
+      ],
+      "tags": [],
+      "genres": [
+        "범죄",
+        "드라마",
+        "스릴러"
+      ],
+      "cast": [
+        "마리슈카 하기테이",
+        "Ice-T",
+        "Kelli Giddish",
+        "피터 스카나비노",
+        "Aimé Donna Kelly",
+        "Kevin Kane"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -1602,13 +4028,28 @@
       "backdrop": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
       "year": "2004",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 76,
-      "votes": 4789,
+      "votes": 4790,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "스릴러",
+        "액션",
+        "드라마"
+      ],
+      "cast": [
+        "Matthew Fox",
+        "에반젤린 릴리",
+        "테리 오퀸",
+        "조쉬 할로웨이",
+        "Michael Emerson",
+        "호르헤 가르시아",
+        "Naveen Andrews",
+        "제프 페이히"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -1620,7 +4061,7 @@
       "backdrop": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
       "year": "1997",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 76,
       "votes": 2086,
       "ott": [
@@ -1630,6 +4071,17 @@
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "마츠모토 리카",
+        "오오타니 이쿠에",
+        "야마시타 다이키",
+        "호리우치 켄유"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -1642,7 +4094,7 @@
       "backdrop": "/kub3bZS2sOGviEjo4p1ohREboVb.jpg",
       "year": "2004",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 76,
       "votes": 2001,
       "ott": [
@@ -1651,6 +4103,21 @@
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "스릴러",
+        "드라마",
+        "코미디"
+      ],
+      "cast": [
+        "테리 해처",
+        "Felicity Huffman",
+        "Marcia Cross",
+        "에바 롱고리아",
+        "Ricardo Chavira",
+        "Doug Savant",
+        "James Denton",
+        "Brenda Strong"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -1662,7 +4129,7 @@
       "poster": "/9Kl6z0J1Hu3cFOFXNBrqqVWoNmI.jpg",
       "backdrop": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
       "year": "1984",
-      "runtime": null,
+      "runtime": 115,
       "episode_runtime": null,
       "score": 75,
       "votes": 11675,
@@ -1676,6 +4143,21 @@
         "대중픽",
         "접근성 좋음"
       ],
+      "genres": [
+        "SF/판타지",
+        "액션",
+        "가족/키즈"
+      ],
+      "cast": [
+        "헨리 토마스",
+        "드류 배리모어",
+        "로버트 맥노턴",
+        "피터 코요테",
+        "디 월리스",
+        "에리카 엘레니악",
+        "K.C. Martel",
+        "C. Thomas Howell"
+      ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
     {
@@ -1686,15 +4168,29 @@
       "poster": "/u2aVXft5GLBQnjzWVNda7sdDpdu.jpg",
       "backdrop": "/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
       "year": "2022",
-      "runtime": null,
+      "runtime": 192,
       "episode_runtime": null,
       "score": 75,
-      "votes": 13148,
+      "votes": 13156,
       "ott": [
         "Disney Plus"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "샘 워싱턴",
+        "조 샐다나",
+        "시고니 위버",
+        "스티븐 랭",
+        "케이트 윈슬렛",
+        "클리프 커티스",
+        "조엘 무어",
+        "C. C. H. 파운더"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1706,10 +4202,10 @@
       "poster": "/hjki9weYYVABvkpZbX5jBOmKXXv.jpg",
       "backdrop": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
       "year": "2017",
-      "runtime": null,
+      "runtime": 133,
       "episode_runtime": null,
       "score": 75,
-      "votes": 22661,
+      "votes": 22663,
       "ott": [
         "wavve",
         "Watcha"
@@ -1718,25 +4214,126 @@
         "대중픽",
         "접근성 좋음"
       ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "톰 홀랜드",
+        "마이클 키튼",
+        "로버트 다우니 주니어",
+        "마리사 토메이",
+        "존 파브로",
+        "기네스 팰트로",
+        "젠데이아",
+        "도널드 글로버"
+      ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
     {
-      "id": 2734,
-      "type": "tv",
-      "title": "로 앤 오더: 성범죄전담반",
-      "title_original": "Law & Order: Special Victims Unit",
-      "poster": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-      "backdrop": "/2wgk47yrb2WnXAdSBLFX9EiU882.jpg",
-      "year": "1999",
-      "runtime": null,
+      "id": 333339,
+      "type": "movie",
+      "title": "레디 플레이어 원",
+      "title_original": "Ready Player One",
+      "poster": "/j4TIfwFrm8WnckByTnMFEAuIVju.jpg",
+      "backdrop": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+      "year": "2018",
+      "runtime": 140,
       "episode_runtime": null,
       "score": 75,
-      "votes": 4075,
+      "votes": 16415,
       "ott": [
         "wavve"
       ],
-      "tags": [],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "타이 셰리던",
+        "올리비아 쿡",
+        "벤 멘델슨",
+        "레나 웨이드",
+        "T.J. 밀러",
+        "사이먼 페그",
+        "마크 라이런스",
+        "Philip Zhao"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 38757,
+      "type": "movie",
+      "title": "라푼젤",
+      "title_original": "Tangled",
+      "poster": "/xLYsTwDjciR5LLkJ7tRhTi4m1hi.jpg",
+      "backdrop": "/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+      "year": "2011",
+      "runtime": 100,
+      "episode_runtime": null,
+      "score": 75,
+      "votes": 12037,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "애니메이션",
+        "가족/키즈",
+        "액션"
+      ],
+      "cast": [
+        "맨디 무어",
+        "재커리 레비",
+        "도나 머피",
+        "론 펄먼",
+        "M.C. 게이니",
+        "제프리 탬버",
+        "브래드 개릿",
+        "Paul F. Tompkins"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 557,
+      "type": "movie",
+      "title": "스파이더맨",
+      "title_original": "Spider-Man",
+      "poster": "/4xOhtzXGt0if74dTmS4qtizFelX.jpg",
+      "backdrop": "/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg",
+      "year": "2002",
+      "runtime": 121,
+      "episode_runtime": null,
+      "score": 75,
+      "votes": 20089,
+      "ott": [
+        "wavve",
+        "Watcha"
+      ],
+      "tags": [
+        "대중픽",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "토비 맥과이어",
+        "윌렘 대포",
+        "커스틴 던스트",
+        "제임스 프랭코",
+        "클리프 로버트슨",
+        "로즈메리 해리스",
+        "J.K. 시몬스",
+        "조 맹거넬로"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
     },
     {
       "id": 1421,
@@ -1747,13 +4344,125 @@
       "backdrop": "/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
       "year": "2009",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 25,
       "score": 75,
-      "votes": 3142,
+      "votes": 3143,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "코미디"
+      ],
+      "cast": [
+        "에드 오닐",
+        "소피아 베르가라",
+        "줄리 보언",
+        "타이 버렐",
+        "Jesse Tyler Ferguson",
+        "에릭 스톤스트리트",
+        "세라 하일랜드",
+        "아리엘 윈터"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 213402,
+      "type": "tv",
+      "title": "터무니없는 스킬로 이세계 방랑 밥",
+      "title_original": "とんでもスキルで異世界放浪メシ",
+      "poster": "/1iWzgAU9MMKrS67VnxH4XhDnTUa.jpg",
+      "backdrop": "/47cdJm6WGJqCsdE6QvPh6fLKwuo.jpg",
+      "year": "2023",
+      "runtime": null,
+      "episode_runtime": 24,
+      "score": 75,
+      "votes": 263,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": [
+        "숨은 명작",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "우치다 유우마",
+        "히노 사토시",
+        "키노 히나",
+        "우치다 마아야",
+        "카이다 유코",
+        "시라스 사호",
+        "타이치 요우"
+      ],
+      "reason": "아는 사람만 아는 저평가 명작"
+    },
+    {
+      "id": 790,
+      "type": "tv",
+      "title": "아가사 크리스티: 명탐정 포와로",
+      "title_original": "Agatha Christie's Poirot",
+      "poster": "/pWVZ6WUSZfqxTOllyiV9mM3jQ4g.jpg",
+      "backdrop": "/rwxxDbG9Kijki7CkmB4k64MSbte.jpg",
+      "year": "1989",
+      "runtime": null,
+      "episode_runtime": 50,
+      "score": 75,
+      "votes": 520,
+      "ott": [
+        "wavve",
+        "Watcha",
+        "TVING"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "범죄",
+        "드라마",
+        "스릴러"
+      ],
+      "cast": [
+        "David Suchet"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 4556,
+      "type": "tv",
+      "title": "스크럽스",
+      "title_original": "Scrubs",
+      "poster": "/qMhcN2newKlkharOKRgd2tkfa0J.jpg",
+      "backdrop": "/z6fUdAWIqSenjIYsPmRltaGHcTq.jpg",
+      "year": "2001",
+      "runtime": null,
+      "episode_runtime": 22,
+      "score": 75,
+      "votes": 2027,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [],
+      "genres": [
+        "코미디"
+      ],
+      "cast": [
+        "잭 브래프",
+        "Donald Faison",
+        "존 C. 맥긴리",
+        "Eliza Coupe",
+        "케리 비셰이",
+        "마이클 모즐리",
+        "데이브 프랭코"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -1764,16 +4473,31 @@
       "poster": "/vSMWJkBTEfa7kFxHizSz4uJNVlf.jpg",
       "backdrop": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
       "year": "2025",
-      "runtime": null,
+      "runtime": 150,
       "episode_runtime": null,
       "score": 74,
-      "votes": 2229,
+      "votes": 2237,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "SF/판타지",
+        "공포"
+      ],
+      "cast": [
+        "오스카 아이작",
+        "제이콥 엘로디",
+        "크리스토프 발츠",
+        "미아 고스",
+        "펠릭스 카머러",
+        "찰스 댄스",
+        "데이비드 브래들리",
+        "Lars Mikkelsen"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -1785,15 +4509,30 @@
       "poster": "/dsfAcQ5J7TPOpJgcX8R1lRBqiMK.jpg",
       "backdrop": "/ufpeVEM64uZHPpzzeiDNIAdaeOD.jpg",
       "year": "2024",
-      "runtime": null,
+      "runtime": 128,
       "episode_runtime": null,
       "score": 74,
-      "votes": 8011,
+      "votes": 8012,
       "ott": [
         "Disney Plus"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "코미디",
+        "SF/판타지"
+      ],
+      "cast": [
+        "라이언 레이놀즈",
+        "휴 잭맨",
+        "엠마 코린",
+        "매튜 맥패디언",
+        "다프네 킨",
+        "존 파브로",
+        "모레나 바카린",
+        "롭 딜레이니"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1806,15 +4545,27 @@
       "backdrop": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
       "year": "2013",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 74,
-      "votes": 3436,
+      "votes": 3437,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "범죄",
+        "스릴러"
+      ],
+      "cast": [
+        "제임스 스페이더",
+        "디에고 클래튼호프",
+        "Hisham Tawfiq",
+        "Anya Banerjee",
+        "해리 레닉스"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -1827,14 +4578,167 @@
       "backdrop": "/zOnLMRD3PIhwO5KZmWMVEnLokMo.jpg",
       "year": "2009",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 45,
       "score": 74,
       "votes": 2009,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "드라마",
+        "범죄"
+      ],
+      "cast": [
+        "네이선 필리언",
+        "Stana Katic",
+        "Molly C. Quinn",
+        "존 휴에르타스",
+        "Seamus Dever",
+        "Susan Sullivan",
+        "Tamala Jones",
+        "톡스 올라군도예"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 4586,
+      "type": "tv",
+      "title": "길모어 걸스",
+      "title_original": "Gilmore Girls",
+      "poster": "/gwtzCwU2wdLLf8oejQu2TINiWfQ.jpg",
+      "backdrop": "/8U2ndZrneigI2zkvGuTJtt1ZsxK.jpg",
+      "year": "2000",
+      "runtime": null,
+      "episode_runtime": 44,
+      "score": 74,
+      "votes": 1179,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "코미디",
+        "드라마"
+      ],
+      "cast": [
+        "Lauren Graham",
+        "알렉시스 블레델",
+        "Scott Patterson",
+        "멜리사 매카시",
+        "케이코 아게나",
+        "Yanic Truesdale",
+        "Liza Weil",
+        "숀 건"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 30983,
+      "type": "tv",
+      "title": "명탐정 코난",
+      "title_original": "名探偵コナン",
+      "poster": "/tg5Gya0yv7mScUMIX8CSXZzLCVd.jpg",
+      "backdrop": "/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
+      "year": "1996",
+      "runtime": null,
+      "episode_runtime": 25,
+      "score": 74,
+      "votes": 725,
+      "ott": [
+        "Watcha",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "범죄",
+        "스릴러",
+        "코미디"
+      ],
+      "cast": [
+        "타카야마 미나미",
+        "야마구치 캇페이",
+        "야마자키 와카나",
+        "카미야 아키라",
+        "코야마 리키야",
+        "하야시바라 메구미",
+        "오가타 켄이치",
+        "이와이 유키코"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 222766,
+      "type": "tv",
+      "title": "데이 오브 더 자칼",
+      "title_original": "The Day of the Jackal",
+      "poster": "/9cF0z0kd01sDO86Q4r2jdn97XVg.jpg",
+      "backdrop": "/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
+      "year": "2024",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 74,
+      "votes": 841,
+      "ott": [
+        "wavve"
+      ],
+      "tags": [],
+      "genres": [
+        "드라마",
+        "액션",
+        "스릴러"
+      ],
+      "cast": [
+        "에디 레드메인",
+        "라샤나 린치",
+        "Eleanor Matsuura",
+        "추쿠디 이우지",
+        "우르술라 코르베로",
+        "Adoney Díaz Barajas"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 66788,
+      "type": "tv",
+      "title": "루머의 루머의 루머",
+      "title_original": "13 Reasons Why",
+      "poster": "/eDGB58IxMZsQ6F7cpr8IbgUuqk6.jpg",
+      "backdrop": "/c4CSgKL6QfkJxsWcGYDyTxpbzpW.jpg",
+      "year": "2017",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 74,
+      "votes": 4413,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "스릴러"
+      ],
+      "cast": [
+        "딜런 미네트",
+        "Grace Saif",
+        "Christian Navarro",
+        "알리샤 보",
+        "Brandon Flynn",
+        "Justin Prentice",
+        "마일즈 헤이저",
+        "로스 버틀러"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
     },
     {
       "id": 1022789,
@@ -1844,15 +4748,31 @@
       "poster": "/x2BHx02jMbvpKjMvbf8XxJkYwHJ.jpg",
       "backdrop": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
       "year": "2024",
-      "runtime": null,
+      "runtime": 97,
       "episode_runtime": null,
       "score": 73,
-      "votes": 6302,
+      "votes": 6304,
       "ott": [
         "Disney Plus"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "코미디",
+        "가족/키즈"
+      ],
+      "cast": [
+        "에이미 폴러",
+        "마야 호크",
+        "켄싱턴 톨먼",
+        "리자 라피라",
+        "토니 헤일",
+        "루이스 블랙",
+        "필리스 스미스",
+        "아요 에데비리"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1864,15 +4784,30 @@
       "poster": "/AjYcJsuiqW4sHFEmh5SVSy5PswH.jpg",
       "backdrop": "/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
       "year": "1987",
-      "runtime": null,
+      "runtime": 107,
       "episode_runtime": null,
       "score": 73,
-      "votes": 8693,
+      "votes": 8695,
       "ott": [
         "Disney Plus"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "SF/판타지",
+        "액션",
+        "스릴러"
+      ],
+      "cast": [
+        "아놀드 슈왈제네거",
+        "칼 웨더스",
+        "Kevin Peter Hall",
+        "Elpidia Carrillo",
+        "Bill Duke",
+        "Jesse Ventura",
+        "Sonny Landham",
+        "Richard Chaves"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1884,15 +4819,132 @@
       "poster": "/y8pY5MIzpPAnF5vYUNm1tw1AzL3.jpg",
       "backdrop": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
       "year": "2015",
-      "runtime": null,
+      "runtime": 141,
       "episode_runtime": null,
       "score": 73,
-      "votes": 23909,
+      "votes": 23910,
       "ott": [
         "Disney Plus"
       ],
       "tags": [
         "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "로버트 다우니 주니어",
+        "크리스 헴스워스",
+        "마크 러팔로",
+        "크리스 에반스",
+        "스칼렛 요한슨",
+        "제레미 레너",
+        "제임스 스페이더",
+        "사무엘 L. 잭슨"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 792307,
+      "type": "movie",
+      "title": "가여운 것들",
+      "title_original": "Poor Things",
+      "poster": "/uEpP9cfDrTsBm36uvX8P0uvnAsg.jpg",
+      "backdrop": "/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+      "year": "2024",
+      "runtime": 141,
+      "episode_runtime": null,
+      "score": 73,
+      "votes": 5137,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "SF/판타지",
+        "로맨스",
+        "코미디"
+      ],
+      "cast": [
+        "엠마 스톤",
+        "마크 러팔로",
+        "윌렘 대포",
+        "라미 유세프",
+        "크리스토퍼 애벗",
+        "Suzy Bemba",
+        "제러드 카마이클",
+        "캐스린 헌터"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 11688,
+      "type": "movie",
+      "title": "쿠스코? 쿠스코!",
+      "title_original": "The Emperor's New Groove",
+      "poster": "/2eDgsCJlSuyZ0BQoAR4ISiGjKEi.jpg",
+      "backdrop": "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+      "year": "2001",
+      "runtime": 78,
+      "episode_runtime": null,
+      "score": 73,
+      "votes": 7099,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "애니메이션",
+        "코미디",
+        "가족/키즈",
+        "SF/판타지"
+      ],
+      "cast": [
+        "데이비드 스페이드",
+        "존 굿맨",
+        "Eartha Kitt",
+        "패트릭 워버턴",
+        "Wendie Malick",
+        "Kellyann Kelso",
+        "Eli Russell Linnetz",
+        "Stephen J. Anderson"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 821,
+      "type": "movie",
+      "title": "뉘른베르크의 재판",
+      "title_original": "Judgment at Nuremberg",
+      "poster": "/b6vYatvui1EXeFYfpDX4rcbueuP.jpg",
+      "backdrop": "/bDsXa3PV3biQ8ZK1tQyK4vlkvCc.jpg",
+      "year": "1961",
+      "runtime": 191,
+      "episode_runtime": null,
+      "score": 73,
+      "votes": 886,
+      "ott": [
+        "Watcha"
+      ],
+      "tags": [],
+      "genres": [
+        "드라마"
+      ],
+      "cast": [
+        "스펜서 트레이시",
+        "Richard Widmark",
+        "Maximilian Schell",
+        "버트 랭커스터",
+        "마를레네 디트리히",
+        "주디 갈란드",
+        "몽고메리 클리프트",
+        "윌리엄 샤트너"
       ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
@@ -1905,7 +4957,7 @@
       "backdrop": "/391ixi0wVbFtFLQnOy8ZncWv2io.jpg",
       "year": "2011",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 73,
       "votes": 2425,
       "ott": [
@@ -1915,7 +4967,92 @@
       "tags": [
         "접근성 좋음"
       ],
+      "genres": [
+        "드라마",
+        "범죄"
+      ],
+      "cast": [
+        "클레어 데인즈",
+        "맨디 파틴킨",
+        "Maury Sterling",
+        "Numan Acar",
+        "Nimrat Kaur",
+        "Linus Roache",
+        "Costa Ronin"
+      ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 9502,
+      "type": "movie",
+      "title": "쿵푸팬더",
+      "title_original": "Kung Fu Panda",
+      "poster": "/c3Dzd3A3QE0LkKb5HMOHTzs2Fyg.jpg",
+      "backdrop": "/qdthf9WrRDSaIkGVQGhhJ9pz1hn.jpg",
+      "year": "2008",
+      "runtime": 90,
+      "episode_runtime": null,
+      "score": 72,
+      "votes": 12237,
+      "ott": [
+        "Watcha"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "애니메이션",
+        "가족/키즈",
+        "코미디",
+        "액션"
+      ],
+      "cast": [
+        "잭 블랙",
+        "안젤리나 졸리",
+        "더스틴 호프만",
+        "이언 맥셰인",
+        "성룡",
+        "루시 리우",
+        "세스 로건",
+        "데이비드 크로스"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 109445,
+      "type": "movie",
+      "title": "겨울왕국",
+      "title_original": "Frozen",
+      "poster": "/bXR62Afcn5ouxMNrlnnFugwXEQM.jpg",
+      "backdrop": "/u2bZhH3nTf0So0UIC1QxAqBvC07.jpg",
+      "year": "2014",
+      "runtime": 108,
+      "episode_runtime": null,
+      "score": 72,
+      "votes": 17201,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "애니메이션",
+        "가족/키즈",
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "이디나 멘젤",
+        "크리스틴 벨",
+        "조나단 그로프",
+        "조시 게드",
+        "Livvy Stubenrauch",
+        "Santino Fontana",
+        "Eva Bella",
+        "앨런 튜딕"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
       "id": 4614,
@@ -1926,13 +5063,27 @@
       "backdrop": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
       "year": "2003",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 72,
       "votes": 2420,
       "ott": [
         "Watcha"
       ],
       "tags": [],
+      "genres": [
+        "범죄",
+        "드라마",
+        "액션"
+      ],
+      "cast": [
+        "Sean Murray",
+        "Wilmer Valderrama",
+        "카트리나 로",
+        "Brian Dietzen",
+        "Rocky Carroll",
+        "Diona Reasonover",
+        "게리 콜"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -1944,13 +5095,26 @@
       "backdrop": "/be6mDIMv7cg8duWkcYVnTB8rphO.jpg",
       "year": "2001",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 45,
       "score": 72,
       "votes": 1679,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "액션",
+        "드라마",
+        "범죄"
+      ],
+      "cast": [
+        "키퍼 서덜랜드",
+        "Mary Lynn Rajskub",
+        "Kim Raver",
+        "이본 스트러호브스키",
+        "테이트 도너번",
+        "윌리엄 디베인"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -1962,13 +5126,26 @@
       "backdrop": "/5DFvscYGpcFaQMJljCic5gbzVe6.jpg",
       "year": "2018",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 72,
       "votes": 871,
       "ott": [
         "wavve"
       ],
       "tags": [],
+      "genres": [
+        "범죄",
+        "액션",
+        "드라마"
+      ],
+      "cast": [
+        "Missy Peregrym",
+        "Zeeko Zaki",
+        "John Boyd",
+        "Jeremy Sisto",
+        "Alana de la Garza",
+        "Juliana Aidén Martinez"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -1980,13 +5157,27 @@
       "backdrop": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
       "year": "2002",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 42,
       "score": 72,
       "votes": 1659,
       "ott": [
         "Watcha"
       ],
       "tags": [],
+      "genres": [
+        "드라마",
+        "스릴러",
+        "범죄"
+      ],
+      "cast": [
+        "David Caruso",
+        "Emily Procter",
+        "오마 벤슨 밀러",
+        "Jonathan Togo",
+        "Adam Rodriguez",
+        "렉스 린",
+        "Eva LaRue"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -1998,14 +5189,58 @@
       "backdrop": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
       "year": "2007",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 72,
       "votes": 962,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "애니메이션",
+        "코미디",
+        "가족/키즈",
+        "SF/판타지"
+      ],
+      "cast": [
+        "빈센트 마텔라",
+        "David Errigo Jr.",
+        "애슐리 티스데일",
+        "캐럴라인 레아",
+        "디 브래들리 베이커",
+        "앨리슨 스토너",
+        "댄 포벤마이어",
+        "Jeff 'Swampy' Marsh"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 90,
+      "type": "tv",
+      "title": "항공사고 수사대",
+      "title_original": "Mayday",
+      "poster": "/lkU3OafPOiaPSyUuDilJ2FM9O1b.jpg",
+      "backdrop": "/zocVz88wzfCd2y3RPKxI8qjhRKc.jpg",
+      "year": "2003",
+      "runtime": null,
+      "episode_runtime": 46,
+      "score": 72,
+      "votes": 272,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "숨은 명작"
+      ],
+      "genres": [
+        "다큐멘터리",
+        "드라마",
+        "범죄"
+      ],
+      "cast": [
+        "Stephen Bogaert"
+      ],
+      "reason": "아는 사람만 아는 저평가 명작"
     },
     {
       "id": 866398,
@@ -2015,16 +5250,31 @@
       "poster": "/ekHemOB84SoKi6fqG0ciwvKWM2i.jpg",
       "backdrop": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
       "year": "2024",
-      "runtime": null,
+      "runtime": 106,
       "episode_runtime": null,
       "score": 71,
-      "votes": 3910,
+      "votes": 3912,
       "ott": [
         "wavve",
         "Watcha"
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "범죄",
+        "스릴러"
+      ],
+      "cast": [
+        "제이슨 스타뎀",
+        "에미 레이버램프먼",
+        "조쉬 허처슨",
+        "제레미 아이언스",
+        "Bobby Naderi",
+        "David Witts",
+        "Michael Epp",
+        "Taylor James"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -2037,13 +5287,22 @@
       "backdrop": "/lgGZ2ysbRyAOi2VgIZpp6k8qILj.jpg",
       "year": "1999",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 22,
       "score": 71,
       "votes": 4735,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "애니메이션",
+        "코미디"
+      ],
+      "cast": [
+        "세스 맥팔레인",
+        "앨릭스 보스틴",
+        "세스 그린"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -2055,7 +5314,7 @@
       "backdrop": "/ndLd4IIc90ajv5VpCaLfqmmEYOb.jpg",
       "year": "2019",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": 120,
       "score": 71,
       "votes": 291,
       "ott": [
@@ -2066,6 +5325,20 @@
       "tags": [
         "숨은 명작",
         "접근성 좋음"
+      ],
+      "genres": [
+        "액션",
+        "드라마"
+      ],
+      "cast": [
+        "와그너 모라",
+        "Özge Törer",
+        "Emre Bey",
+        "Ecem Sena Bayır",
+        "Ömer Faruk Aran",
+        "Belgin Şimşek",
+        "Leya Kırşan",
+        "Yiğit Uçan"
       ],
       "reason": "아는 사람만 아는 저평가 명작"
     },
@@ -2078,13 +5351,86 @@
       "backdrop": "/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg",
       "year": "2013",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 71,
       "votes": 3683,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "드라마",
+        "SF/판타지",
+        "액션"
+      ],
+      "cast": [
+        "클라크 그렉",
+        "클로이 베넷",
+        "Elizabeth Henstridge",
+        "밍나 원",
+        "Henry Simmons",
+        "Natalia Cordova-Buckley",
+        "Jeff Ward"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 1415,
+      "type": "tv",
+      "title": "엘리멘트리",
+      "title_original": "Elementary",
+      "poster": "/bxA78rAhpIMrJzEOWY2S1AuwNw8.jpg",
+      "backdrop": "/7sJrNKwzyJWnFPFpDL9wnZ859LZ.jpg",
+      "year": "2012",
+      "runtime": null,
+      "episode_runtime": 43,
+      "score": 71,
+      "votes": 1744,
+      "ott": [
+        "Watcha"
+      ],
+      "tags": [],
+      "genres": [
+        "드라마",
+        "스릴러",
+        "범죄"
+      ],
+      "cast": [
+        "Jonny Lee Miller",
+        "루시 리우",
+        "존 마이클 힐",
+        "에이든 퀸"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 32726,
+      "type": "tv",
+      "title": "밥스 버거스",
+      "title_original": "Bob's Burgers",
+      "poster": "/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+      "backdrop": "/xnU9b4IehJ08Ikz3sweABtY5IwU.jpg",
+      "year": "2011",
+      "runtime": null,
+      "episode_runtime": 23,
+      "score": 71,
+      "votes": 1036,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [],
+      "genres": [
+        "애니메이션",
+        "코미디"
+      ],
+      "cast": [
+        "H. Jon Benjamin",
+        "John Roberts",
+        "크리스틴 샬",
+        "Eugene Mirman",
+        "Dan Mintz",
+        "Larry Murphy"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -2095,7 +5441,7 @@
       "poster": "/vSY6MgDWD5Ch5I87X8BaxZyydCI.jpg",
       "backdrop": "/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
       "year": "2005",
-      "runtime": null,
+      "runtime": 143,
       "episode_runtime": null,
       "score": 70,
       "votes": 11184,
@@ -2105,7 +5451,91 @@
       "tags": [
         "대중픽"
       ],
+      "genres": [
+        "액션",
+        "가족/키즈",
+        "SF/판타지"
+      ],
+      "cast": [
+        "William Moseley",
+        "Anna Popplewell",
+        "Skandar Keynes",
+        "조지 헨리",
+        "리암 니슨",
+        "틸다 스윈튼",
+        "제임스 맥어보이",
+        "짐 브로드벤트"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 47640,
+      "type": "tv",
+      "title": "스트레인",
+      "title_original": "The Strain",
+      "poster": "/2BWErT9QcADpf2G4BZ769eSnFTP.jpg",
+      "backdrop": "/4YnAZ1KO9goeS4c06VO7HXiO3oO.jpg",
+      "year": "2014",
+      "runtime": null,
+      "episode_runtime": 44,
+      "score": 70,
+      "votes": 1932,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [],
+      "genres": [
+        "SF/판타지",
+        "드라마",
+        "스릴러"
+      ],
+      "cast": [
+        "코리 스톨",
+        "케빈 듀랜드",
+        "Miguel Gómez",
+        "데이비드 브래들리",
+        "Jonathan Hyde",
+        "Richard Sammel",
+        "맥스 찰리",
+        "루타 게드민터스"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 50712,
+      "type": "tv",
+      "title": "흑집사",
+      "title_original": "黒執事",
+      "poster": "/naBVOWX9vjm7eLWb6We05dgvWA6.jpg",
+      "backdrop": "/5U0dYTkHXPhoExNnEm5iKrpDqtr.jpg",
+      "year": "2008",
+      "runtime": null,
+      "episode_runtime": 24,
+      "score": 70,
+      "votes": 243,
+      "ott": [
+        "Netflix",
+        "Watcha",
+        "Netflix Standard with Ads",
+        "Crunchyroll",
+        "TVING"
+      ],
+      "tags": [
+        "숨은 명작",
+        "접근성 좋음"
+      ],
+      "genres": [
+        "애니메이션",
+        "코미디",
+        "드라마",
+        "스릴러",
+        "SF/판타지"
+      ],
+      "cast": [
+        "오노 다이스케",
+        "사카모토 마아야"
+      ],
+      "reason": "아는 사람만 아는 저평가 명작"
     },
     {
       "id": 661374,
@@ -2115,10 +5545,10 @@
       "poster": "/lrgmo1qluO9c2qdBduiu412fRDS.jpg",
       "backdrop": "/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
       "year": "2022",
-      "runtime": null,
+      "runtime": 139,
       "episode_runtime": null,
       "score": 69,
-      "votes": 6256,
+      "votes": 6260,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -2126,6 +5556,21 @@
       "tags": [
         "대중픽",
         "접근성 좋음"
+      ],
+      "genres": [
+        "코미디",
+        "범죄",
+        "스릴러"
+      ],
+      "cast": [
+        "다니엘 크레이그",
+        "에드워드 노튼",
+        "자넬 모네",
+        "캐서린 한",
+        "레슬리 오돔 주니어",
+        "케이트 허드슨",
+        "데이브 바티스타",
+        "제시카 헨윅"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -2137,14 +5582,60 @@
       "poster": "/iTX4O9gb8Jn0F5N5WgYnbIopdnP.jpg",
       "backdrop": "/wSdWEc1G3OUWg8HAzNLqOZ9Gd43.jpg",
       "year": "2025",
-      "runtime": null,
+      "runtime": 127,
       "episode_runtime": null,
       "score": 69,
-      "votes": 2974,
+      "votes": 2978,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "플로렌스 퓨",
+        "세바스찬 스탠",
+        "줄리아 루이스 드레이퍼스",
+        "루이스 풀먼",
+        "데이비드 하버",
+        "와이엇 러셀",
+        "해나 존 케이먼",
+        "올가 쿠릴렌코"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 39272,
+      "type": "tv",
+      "title": "원스 어폰 어 타임",
+      "title_original": "Once Upon a Time",
+      "poster": "/w0DSg9UYPdT9QE2r8AgyXIe28aV.jpg",
+      "backdrop": "/AmJ72AKL73mvhXyVgkFb8pUbIa9.jpg",
+      "year": "2011",
+      "runtime": null,
+      "episode_runtime": 43,
+      "score": 69,
+      "votes": 2407,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [],
+      "genres": [
+        "드라마",
+        "SF/판타지"
+      ],
+      "cast": [
+        "라나 파리야",
+        "콜린 오도노휴",
+        "로버트 칼라일",
+        "가브리엘 앤워",
+        "Dania Ramirez",
+        "Mekia Cox",
+        "Andrew J. West",
+        "Alison Fernández"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -2155,16 +5646,30 @@
       "poster": "/qFXkslzkBIihZnwyYal9WnQ9OTe.jpg",
       "backdrop": "/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
       "year": "2025",
-      "runtime": null,
+      "runtime": 145,
       "episode_runtime": null,
       "score": 68,
-      "votes": 597,
+      "votes": 637,
       "ott": [
         "Netflix",
         "Netflix Standard with Ads"
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "스릴러",
+        "코미디"
+      ],
+      "cast": [
+        "다니엘 크레이그",
+        "조쉬 오코너",
+        "글렌 클로즈",
+        "조쉬 브롤린",
+        "밀라 쿠니스",
+        "제레미 레너",
+        "케리 워싱턴",
+        "앤드류 스콧"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
@@ -2176,14 +5681,101 @@
       "poster": "/ww7jn7lv1YzTAGd5m0R6CP1VXAs.jpg",
       "backdrop": "/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
       "year": "2025",
-      "runtime": null,
+      "runtime": 107,
       "episode_runtime": null,
       "score": 68,
-      "votes": 1883,
+      "votes": 1885,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "가족/키즈",
+        "SF/판타지",
+        "코미디",
+        "액션"
+      ],
+      "cast": [
+        "마이아 케알로하",
+        "시드니 아구동",
+        "크리스 샌더스",
+        "잭 갤리퍼내키스",
+        "빌리 매그너슨",
+        "코트니 B. 밴스",
+        "Amy Hill",
+        "Tia Carrere"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 1284120,
+      "type": "movie",
+      "title": "어글리 시스터",
+      "title_original": "Den stygge stesøsteren",
+      "poster": "/sgstfJwOCiCEMusDGatnm1qegSW.jpg",
+      "backdrop": "/ev9kxdoJ5IYVprt1OvH2SMWJdU1.jpg",
+      "year": "2025",
+      "runtime": 110,
+      "episode_runtime": null,
+      "score": 68,
+      "votes": 736,
+      "ott": [
+        "Watcha",
+        "TVING"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "공포",
+        "코미디",
+        "SF/판타지",
+        "드라마"
+      ],
+      "cast": [
+        "Lea Mathilde Skar-Myren",
+        "Ane Dahl Torp",
+        "Thea Sofie Loch Næss",
+        "Flo Fagerli",
+        "Isac Calmroth",
+        "Malte Gårdinger",
+        "Ralph Carlsson",
+        "Cecilia Forss"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 505642,
+      "type": "movie",
+      "title": "블랙 팬서: 와칸다 포에버",
+      "title_original": "Black Panther: Wakanda Forever",
+      "poster": "/4LaJseYluZxp4Odlisd1Zb4RWHR.jpg",
+      "backdrop": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+      "year": "2022",
+      "runtime": 162,
+      "episode_runtime": null,
+      "score": 68,
+      "votes": 7139,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "대중픽"
+      ],
+      "genres": [
+        "액션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "레티티아 라이트",
+        "테노치 우헤르타 메히아",
+        "루피타 뇽오",
+        "다나이 구리라",
+        "윈스턴 듀크",
+        "안젤라 바셋",
+        "마틴 프리먼",
+        "줄리아 루이스 드레이퍼스"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -2194,7 +5786,7 @@
       "poster": "/nsVFxkXRkC1yoEQzINtR3MNU72F.jpg",
       "backdrop": "/1uCX0fpYOdvrTIYulFymWOP08HT.jpg",
       "year": "2022",
-      "runtime": null,
+      "runtime": 99,
       "episode_runtime": null,
       "score": 67,
       "votes": 642,
@@ -2206,6 +5798,83 @@
       "tags": [
         "접근성 좋음"
       ],
+      "genres": [
+        "드라마",
+        "액션"
+      ],
+      "cast": [
+        "팀 블레이크 넬슨",
+        "Scott Haze",
+        "Gavin Lewis",
+        "스티븐 도프",
+        "Trace Adkins",
+        "Richard Speight Jr.",
+        "Max Arciniega",
+        "Brad Carter"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 653346,
+      "type": "movie",
+      "title": "혹성탈출: 새로운 시대",
+      "title_original": "Kingdom of the Planet of the Apes",
+      "poster": "/caNBYk7beRAg8Tcpe7ZjzM2nYXH.jpg",
+      "backdrop": "/iHYh4cdO8ylA3W0dUxTDVdyJ5G9.jpg",
+      "year": "2024",
+      "runtime": 145,
+      "episode_runtime": null,
+      "score": 67,
+      "votes": 3999,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [],
+      "genres": [
+        "SF/판타지",
+        "액션"
+      ],
+      "cast": [
+        "오웬 티그",
+        "프레이아 앨런",
+        "케빈 듀랜드",
+        "피터 메이컨",
+        "윌리엄 H. 메이시",
+        "이카 다빌",
+        "트래비스 제프리",
+        "리디아 페컴"
+      ],
+      "reason": "취향 맞으면 꽤 만족도 높은 선택"
+    },
+    {
+      "id": 286801,
+      "type": "tv",
+      "title": "괴물: 에드 게인 이야기",
+      "title_original": "Monster: The Ed Gein Story",
+      "poster": "/syriZj8WbWSAU2bBOX1jmCtzPn0.jpg",
+      "backdrop": "/cm2oUAPiTE1ERoYYOzzgloQw4YZ.jpg",
+      "year": "2025",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 67,
+      "votes": 414,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "드라마",
+        "범죄"
+      ],
+      "cast": [
+        "찰리 허냄",
+        "수잔나 손",
+        "비키 크립스",
+        "로리 멧칼프"
+      ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     },
     {
@@ -2216,14 +5885,28 @@
       "poster": "/sHgIQvDlk5188wo9jM8IKFeyJUd.jpg",
       "backdrop": "/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
       "year": "2025",
-      "runtime": null,
+      "runtime": 114,
       "episode_runtime": null,
       "score": 66,
-      "votes": 2628,
+      "votes": 2631,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "SF/판타지",
+        "액션"
+      ],
+      "cast": [
+        "페드로 파스칼",
+        "바네사 커비",
+        "에번 모스배크랙",
+        "조셉 퀸",
+        "랄프 이네슨",
+        "줄리아 가너",
+        "폴 월터 하우저",
+        "나타샤 리온"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -2234,14 +5917,31 @@
       "poster": "/hwmwTFtMbzxAWbIOp1RyyiOCyx0.jpg",
       "backdrop": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
       "year": "2024",
-      "runtime": null,
+      "runtime": 100,
       "episode_runtime": null,
       "score": 66,
-      "votes": 2822,
+      "votes": 2823,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "가족/키즈",
+        "코미디",
+        "액션",
+        "애니메이션",
+        "SF/판타지"
+      ],
+      "cast": [
+        "아울리이 크러발리오",
+        "드웨인 존슨",
+        "Hualālai Chung",
+        "Rose Matafeo",
+        "David Fane",
+        "Awhimai Fraser",
+        "Khaleesi Lambert-Tsuda",
+        "테무에라 모리슨"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -2253,13 +5953,29 @@
       "backdrop": "/danN2NzJTMouaBEkDWTnyDjDxUt.jpg",
       "year": "2023",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 66,
-      "votes": 629,
+      "votes": 632,
       "ott": [
         "Disney Plus"
       ],
       "tags": [],
+      "genres": [
+        "액션",
+        "SF/판타지",
+        "드라마",
+        "가족/키즈"
+      ],
+      "cast": [
+        "워커 스코벨",
+        "레아 사바 제프리스",
+        "아리안 심하드리",
+        "Charlie Bushnell",
+        "Dior Goodjohn",
+        "Daniel Diemer",
+        "Beatrice Kitsos",
+        "티모시 사이먼스"
+      ],
       "reason": "취향 맞으면 꽤 만족도 높은 선택"
     },
     {
@@ -2271,7 +5987,7 @@
       "backdrop": "/uXY6k8Gd45cTGzlz5s0A2ejDBXa.jpg",
       "year": "2017",
       "runtime": null,
-      "episode_runtime": null,
+      "episode_runtime": [],
       "score": 66,
       "votes": 352,
       "ott": [
@@ -2280,6 +5996,120 @@
       ],
       "tags": [
         "접근성 좋음"
+      ],
+      "genres": [
+        "범죄",
+        "드라마",
+        "스릴러"
+      ],
+      "cast": [
+        "Stana Katic",
+        "Patrick Heusinger",
+        "Neil Jackson",
+        "Matthew Le Nevez",
+        "Natasha Little",
+        "Christopher Colquhoun",
+        "폴 프리먼",
+        "Patrick McAuley"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 211288,
+      "type": "tv",
+      "title": "트래커",
+      "title_original": "Tracker",
+      "poster": "/r2AesQ7w9ejurJAMIMUWd2YSbVJ.jpg",
+      "backdrop": "/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
+      "year": "2024",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 66,
+      "votes": 230,
+      "ott": [
+        "Disney Plus"
+      ],
+      "tags": [
+        "숨은 명작"
+      ],
+      "genres": [
+        "드라마",
+        "범죄"
+      ],
+      "cast": [
+        "Justin Hartley",
+        "Fiona Rene"
+      ],
+      "reason": "아는 사람만 아는 저평가 명작"
+    },
+    {
+      "id": 70485,
+      "type": "tv",
+      "title": "미스터 메르세데스",
+      "title_original": "Mr. Mercedes",
+      "poster": "/zZm3LidCf6Edv6yX3WMKo6KwICg.jpg",
+      "backdrop": "/diYVGzRSAJpOCE5Avd5ZKBFUepi.jpg",
+      "year": "2017",
+      "runtime": null,
+      "episode_runtime": [],
+      "score": 65,
+      "votes": 347,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "스릴러",
+        "SF/판타지",
+        "드라마"
+      ],
+      "cast": [
+        "브렌던 글리슨",
+        "Jharrel Jerome",
+        "홀랜드 테일러",
+        "Breeda Wool",
+        "저스틴 루프",
+        "Maximiliano Hernández",
+        "Gabriel Ebert",
+        "Rarmian Newton"
+      ],
+      "reason": "여러 OTT에서 바로 볼 수 있음"
+    },
+    {
+      "id": 502,
+      "type": "tv",
+      "title": "세서미 스트리트",
+      "title_original": "Sesame Street",
+      "poster": "/wZC3fXTxR00YCjgqkc1N20seZJb.jpg",
+      "backdrop": "/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+      "year": "1969",
+      "runtime": null,
+      "episode_runtime": 54,
+      "score": 64,
+      "votes": 272,
+      "ott": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "tags": [
+        "접근성 좋음"
+      ],
+      "genres": [
+        "가족/키즈",
+        "코미디"
+      ],
+      "cast": [
+        "프랭크 오즈",
+        "Sonia Manzano",
+        "Roscoe Orman",
+        "Martin P. Robinson",
+        "Suki Lopez",
+        "Violet Tinnirello",
+        "Jennifer Barnhart",
+        "Ryan Dillon"
       ],
       "reason": "여러 OTT에서 바로 볼 수 있음"
     }

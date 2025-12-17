@@ -14,6 +14,8 @@ type TitleItem = {
   ott: string[];
   tags?: string[];
   reason?: string;
+  genres?: string[];
+  cast?: string[];
 };
 
 type PickConfig = {
