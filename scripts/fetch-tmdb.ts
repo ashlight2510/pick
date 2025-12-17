@@ -10,8 +10,9 @@ loadEnv();
 
 type MediaType = "movie" | "tv";
 
-const PROVIDERS = "8|356|337|97"; // Netflix, wavve, TVING, Coupang
-const PAGES_PER_TYPE = 5;
+// KR watch providers: Netflix(8), wavve(356), TVING(97), Disney+(337), Watcha(96)
+const PROVIDERS = "8|356|97|337|96";
+const PAGES_PER_TYPE = 8;
 
 // TMDB genre id -> FunnyPick genre label (Korean)
 const GENRE_MAP: Record<number, string[]> = {
