@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: "FunnyPick | 오늘 뭐 볼까?",
@@ -31,7 +32,21 @@ export default function RootLayout({
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1204894220949193" crossOrigin="anonymous"></script>
       </head>
-      <body className="bg-white text-gray-900">{children}</body>
+      <body className="bg-white text-gray-900">
+      <div className="adsense-block" style={{ margin: '16px 0', textAlign: 'center' }}>
+        <ins
+          className="adsbygoogle"
+          style={{ display: 'block' }}
+          data-ad-format="fluid"
+          data-ad-layout-key="-6t+ed+2i-1n-4w"
+          data-ad-client="ca-pub-1204894220949193"
+          data-ad-slot="7300458753"
+        ></ins>
+      </div>
+      <Script id="adsbygoogle-init" strategy="afterInteractive">
+        {`(adsbygoogle = window.adsbygoogle || []).push({});`}
+      </Script>
+{children}</body>
     </html>
   );
 }
