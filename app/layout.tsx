@@ -33,10 +33,13 @@ export default function RootLayout({
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1204894220949193" crossOrigin="anonymous"></script>
       </head>
       <body className="bg-white text-gray-900">{children}
-      <div className="adsense-block" style={{ margin: '16px 0', textAlign: 'center' }}>
+      <div
+        className="adsense-block"
+        style={{ margin: '16px 0', display: 'flex', justifyContent: 'center' }}
+      >
         <ins
           className="adsbygoogle"
-          style={{ display: 'block' }}
+          style={{ display: 'block', margin: '0 auto' }}
           data-ad-format="fluid"
           data-ad-layout-key="-6t+ed+2i-1n-4w"
           data-ad-client="ca-pub-1204894220949193"
