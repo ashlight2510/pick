@@ -39,6 +39,23 @@ export function Questionnaire({
       </div>
 
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        <Card title="Q0. 형식은?">
+          {[
+            { label: "상관없음", value: undefined },
+            { label: "단편(영화)", value: "movie" },
+            { label: "드라마(시리즈)", value: "tv" },
+          ].map((opt) => (
+            <Button
+              key={opt.label}
+              active={
+                opt.value === undefined ? !answers.type : answers.type === opt.value
+              }
+              onClick={() => onChange("type", opt.value)}
+            >
+              {opt.label}
+            </Button>
+          ))}
+        </Card>
         <Card title="Q1. 언제 볼까?">
           {[
             { label: "지금 바로", value: "now" },
@@ -92,8 +109,10 @@ export function Questionnaire({
 
         <Card title="Q4. 시간은?">
           {[
-            { label: "1시간 내외", value: "1h" },
-            { label: "2시간 내외", value: "2h" },
+            { label: "40분 이하", value: "40m" },
+            { label: "1시간 이하", value: "60m" },
+            { label: "1시간 20분 이하", value: "80m" },
+            { label: "2시간 이하", value: "120m" },
             { label: "여러 편 가능", value: "binge" },
             { label: "상관없음", value: "any" },
           ].map((opt) => (

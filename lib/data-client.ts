@@ -55,13 +55,31 @@ export type QuestionAnswers = {
   when?: "now" | "tonight" | "weekend" | "browse";
   withWhom?: "solo" | "couple" | "family" | "friends";
   mood?: "laugh" | "relax" | "immerse" | "think";
-  duration?: "1h" | "2h" | "binge" | "any";
+  duration?: "40m" | "60m" | "80m" | "120m" | "1h" | "2h" | "binge" | "any";
   ott?: string;
   type?: "movie" | "tv";
   extra?: "must" | "hidden";
   genres?: string[];
   actor?: string;
 };
+
+function getDurationLimit(duration?: QuestionAnswers["duration"]) {
+  if (!duration || duration === "any" || duration === "binge") return null;
+  switch (duration) {
+    case "40m":
+      return 40;
+    case "60m":
+    case "1h":
+      return 60;
+    case "80m":
+      return 80;
+    case "120m":
+    case "2h":
+      return 120;
+    default:
+      return null;
+  }
+}
 
 export function filterTitles(titles: TitleItem[], answers: QuestionAnswers) {
   return titles.filter((t) => {
@@ -81,13 +99,15 @@ export function filterTitles(titles: TitleItem[], answers: QuestionAnswers) {
     if (answers.when === "weekend" && t.type !== "tv") return false;
 
     // duration
-    if (answers.duration === "1h") {
-      const shortEp = t.episode_runtime && t.episode_runtime <= 40;
-      if (!shortEp) return false;
-    }
-    if (answers.duration === "2h") {
-      const shortMovie = t.runtime && t.runtime <= 120;
-      if (!shortMovie) return false;
+    const durationLimit = getDurationLimit(answers.duration);
+    if (durationLimit) {
+      if (t.type === "tv") {
+        const ep = t.episode_runtime;
+        if (!ep || ep > durationLimit) return false;
+      } else {
+        const runtime = t.runtime;
+        if (!runtime || runtime > durationLimit) return false;
+      }
     }
 
     // with whom
